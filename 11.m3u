@@ -242,8 +242,6 @@ http://live.geermurmt.com/qhws/sd/live.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.cietv.com/img/qhws.jpg",青海卫视
 http://39.134.186.42/PLTV/88888888/224/3221226191/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.cietv.com/img/ynws.jpg",云南卫视
-http://yntvpullhls.ynradio.com/live/yunnanweishi/playlist.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.cietv.com/img/ynws.jpg",云南卫视
 http://ivi.bupt.edu.cn/hls/yntv.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.cietv.com/img/nxws.jpg",宁夏卫视
 http://183.207.248.71/cntv/live1/n-ningxiastv/n-ningxiastv
@@ -335,10 +333,6 @@ http://kuqq.tk/00/huya.php?id=11342423
 http://kuqq.tk/00/huya.php?id=11602041
 #EXTINF:-1 group-title="娱乐电影台" tvg-logo="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2404748486.webp",惊悚
 http://kuqq.tk/00/huya.php?id=11342432
-#EXTINF:-1 group-title="娱乐电影台" tvg-logo="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2527494540.webp",黑帮电影
-http://kuqq.tk/00/huya.php?id=11342419
-#EXTINF:-1 group-title="娱乐电影台" tvg-logo="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2503283192.webp",史诗战争
-http://kuqq.tk/00/huya.php?id=11342435
 #EXTINF:-1 group-title="娱乐电影台" tvg-logo="https://img3.doubanio.com/icon/g406727-1.jpg",丧尸2
 http://kuqq.tk/00/huya.php?id=11342422
 #EXTINF:-1 group-title="娱乐电影台" tvg-logo="https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1955027201.webp",钢铁侠
