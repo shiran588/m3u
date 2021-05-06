@@ -21,8 +21,6 @@ http://39.135.138.58:18890/PLTV/88888888/224/3221225619/index.m3u8
 http://39.134.186.42/PLTV/88888888/224/3221226138/index.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="http://www.cietv.com/img/cctv2.jpg",CCTV-2
 http://39.135.138.58:18890/PLTV/88888888/224/3221225643/index.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="http://www.cietv.com/img/cctv2.jpg",CCTV-2
-http://cctvalih5ca.v.myalicdn.com/live/cctv2_2/index.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="http://www.cietv.com/img/cctv3.jpg",CCTV-3
 http://39.134.65.162/PLTV/88888888/224/3221225784/index.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="http://www.cietv.com/img/cctv3.jpg",CCTV-3
@@ -80,7 +78,7 @@ http://117.169.124.36:6610/ysten-businessmobile/live/cctv-8/1.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="http://www.cietv.com/img/cctv8.jpg",CCTV-8
 http://223.110.243.171/PLTV/3/224/3221227204/index.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="http://www.cietv.com/img/cctv9.jpg",CCTV-9
-http://ivi.bupt.edu.cn/hls/cctv9.m3u8
+http://39.135.33.12/PLTV/77777777/224/3221226552/index.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="http://www.cietv.com/img/cctv9.jpg",CCTV-9
 http://cctvalih5ca.v.myalicdn.com/live/cctvjilu_2/index.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="http://www.cietv.com/img/cctv10.jpg",CCTV-10
@@ -279,8 +277,6 @@ http://kuqq.tk/00/huya.php?id=11342421
 http://kuqq.tk/00/huya.php?id=11342386
 #EXTINF:-1 group-title="娱乐电影台" tvg-logo="https://img3.doubanio.com/icon/g84735-1.jpg",李连杰
 http://kuqq.tk/00/huya.php?id=11342390
-#EXTINF:-1 group-title="娱乐电影台" tvg-logo="https://img2.doubanio.com/view/photo/s_ratio_poster/public/p2213462183.webp",黑帮
-http://kuqq.tk/00/huya.php?id=11336719
 #EXTINF:-1 group-title="娱乐电影台" tvg-logo="https://img3.doubanio.com/view/group/sqxs/public/b3be315b61ee7ad.webp",吴京
 http://kuqq.tk/00/huya.php?id=11602045
 #EXTINF:-1 group-title="娱乐电影台" tvg-logo="https://img2.doubanio.com/icon/g229812-3.jpg",科幻动作
