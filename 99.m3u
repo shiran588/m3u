@@ -212,7 +212,7 @@ http://183.207.248.71/gitv/live1/G_JILIN/G_JILIN
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.cietv.com/img/lyws.jpg",海南卫视
 http://39.134.39.38/PLTV/88888888/224/3221226301/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.cietv.com/img/lyws.jpg",海南卫视
-http://39.134.24.202/PLTV/88888888/224/3221225614/index.m3u8
+http://39.135.140.233:6610/PLTV/88888888/224/3221226212/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127093057112.jpg",厦门卫视
 http://ivi.bupt.edu.cn/hls/xmtv.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.cietv.com/img/fjws.jpg",东南卫视蓝光
