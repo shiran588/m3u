@@ -67,9 +67,9 @@ https://cctvalih5ca.v.myalicdn.com/live/cctv10_2/index.m3u8
 http://cctvalic.v.myalicdn.com/live/cctv10_1/index.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="http://www.cietv.com/img/cctv10.jpg",CCTV-10
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png",CCTV-11
+#EXTINF:-1 group-title="央视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png",CCTV-11
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225815/index.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png",CCTV-11
+#EXTINF:-1 group-title="央视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png",CCTV-11
 http://39.135.138.8:6610/PLTV/88888888/224/3221225628/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="央视频道" tvg-logo="http://www.cietv.com/img/cctv12.jpg",CCTV-12
 http://39.134.65.162/PLTV/88888888/224/3221225518/index.m3u8
@@ -173,9 +173,9 @@ http://39.135.138.6:6610/PLTV/88888888/224/3221225483/2/index.m3u8?fmt=ts2hls
 http://39.135.138.8:6610/PLTV/88888888/224/3221225487/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.cietv.com/img/scws.jpg",四川卫视
 http://39.135.138.6:6610/PLTV/88888888/224/3221225487/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png",重庆卫视
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png",重庆卫视
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225949/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png",重庆卫视
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png",重庆卫视
 http://39.135.138.8:6610/PLTV/88888888/224/3221225612/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.cietv.com/img/gxws.jpg",广西卫视
 http://39.135.138.8:6610/PLTV/88888888/224/3221226211/2/index.m3u8?fmt=ts2hls
@@ -235,9 +235,9 @@ http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sansha.png",三沙卫视
 http://ivi.bupt.edu.cn/hls/sstv.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png",西藏卫视
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png",西藏卫视
 http://39.134.168.91/PLTV/1/224/3221225648/index.m3u8
-#EXTINF:-1 group-title="卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png",西藏卫视
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png",西藏卫视
 http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/xizangstv/1.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.cietv.com/img/xjws.jpg",新疆卫视
 http://livehyw5.chinamcache.com/hyw/zb01.m3u8
@@ -262,46 +262,10 @@ http://39.135.138.6:6610/PLTV/88888888/224/3221225638/2/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="新闻频道" tvg-logo="http://www.cietv.com/img/cctv13.jpg",CCTV-13
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
 #EXTINF:-1 group-title="新闻频道" tvg-logo="http://www.cietv.com/img/fhzw.jpg",凤凰中文台
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=190&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 group-title="新闻频道" tvg-logo="http://www.cietv.com/img/fhzw.jpg",凤凰中文台
-http://117.169.120.138:8080/live/fhchinese/index.m3u8
-#EXTINF:-1 group-title="新闻频道" tvg-logo="http://www.cietv.com/img/fhzw.jpg",凤凰中文台
 http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8$JS1080P
 #EXTINF:-1 group-title="新闻频道" tvg-logo="http://www.cietv.com/img/fhzw.jpg",凤凰中文台
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225900/index.m3u8
 #EXTINF:-1 group-title="新闻频道" tvg-logo="http://www.cietv.com/img/fhzx.jpg",凤凰资讯台
-http://223.110.235.13/ott.js.chinamobile.com/PLTV/3/224/3221228098/index.m3u8$JS1080P
-#EXTINF:-1 group-title="新闻频道" tvg-logo="http://www.cietv.com/img/fhzx.jpg",凤凰资讯台
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8
 #EXTINF:-1 group-title="新闻频道" tvg-logo="http://www.cietv.com/img/fhzx.jpg",凤凰资讯台
-http://117.169.120.138:8080/live/fhzixun/1.m3u8
-#EXTINF:-1 group-title="新闻频道" tvg-logo="http://www.cietv.com/img/fhzx.jpg",凤凰资讯台
-http://125.210.152.18:9090/live/FHZX_1200.m3u8
-#EXTINF:-1 group-title="新闻频道" tvg-logo="http://www.cietv.com/img/fhzx.jpg",凤凰资讯台
-http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
-#EXTINF:-1 group-title="新闻频道" tvg-logo="http://www.cietv.com/img/fhzx.jpg",凤凰资讯台
 http://117.169.124.37:6610/ysten-businessmobile/live/fhzixun/1.m3u8
-#EXTINF:-1 group-title="电影频道" tvg-logo="https://img3.doubanio.com/icon/g84735-1.jpg",李连杰
-http://qj.yyrjdp.cn/jiuban/huya.php?id=11342390
-#EXTINF:-1 group-title="电影频道" tvg-logo="https://img9.doubanio.com/icon/u107985106-5.jpg",周星驰
-http://qj.yyrjdp.cn/jiuban/huya.php?id=11342412
-#EXTINF:-1 group-title="电影频道" tvg-logo="https://img1.doubanio.com/icon/g13814-17.jpg",周润发
-http://qj.yyrjdp.cn/jiuban/huya.php?id=11342387
-#EXTINF:-1 group-title="电影频道" tvg-logo="https://img3.doubanio.com/icon/g24480-1.jpg",成龙
-http://qj.yyrjdp.cn/jiuban/huya.php?id=11342386
-#EXTINF:-1 group-title="电影频道" tvg-logo="https://img1.doubanio.com/view/celebrity/s_ratio_celebrity/public/p838.webp",洪金宝
-http://qj.yyrjdp.cn/jiuban/huya.php?id=11342427
-#EXTINF:-1 group-title="电影频道" tvg-logo="https://img3.doubanio.com/icon/g392095-1.jpg",刘德华
-http://qj.yyrjdp.cn/jiuban/huya.php?id=11342424
-#EXTINF:-1 group-title="电影频道" tvg-logo="https://img3.doubanio.com/icon/g76940-1.jpg",林正英
-http://qj.yyrjdp.cn/jiuban/huya.php?id=11342421
-#EXTINF:-1 group-title="电影频道" tvg-logo="https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1956316774.webp",五福星
-http://qj.yyrjdp.cn/jiuban/huya.php?id=11282233
-#EXTINF:-1 group-title="电影频道" tvg-logo="https://img3.doubanio.com/view/group/sqxs/public/b3be315b61ee7ad.webp",吴京
-http://qj.yyrjdp.cn/jiuban/huya.php?id=11602045
-#EXTINF:-1 group-title="电影频道" tvg-logo="https://img1.doubanio.com/view/group/sqxs/public/cc702eb38a9fa38.webp",甄子丹
-http://qj.yyrjdp.cn/jiuban/huya.php?id=11352935
-#EXTINF:-1 group-title="电影频道" tvg-logo="https://img3.doubanio.com/view/group/sqxs/public/1b2d19242615201.webp",沈腾
-http://qj.yyrjdp.cn/jiuban/huya.php?id=11601968
-#EXTINF:-1 group-title="电影频道" tvg-logo="https://img2.doubanio.com/icon/g174406-2.jpg",徐峥
-http://qj.yyrjdp.cn/jiuban/huya.php?id=11602043
