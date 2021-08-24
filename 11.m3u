@@ -12,8 +12,6 @@ http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221227375/index.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0307/20140307093140783.jpg",CCTV-1
 http://cctvcnch5ca.v.wscdns.com/live/cctv1_2/10793.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0307/20140307093140783.jpg",CCTV-1
-http://play.ggiptv.com:13164/play.m3u8?token=ZQb1SpBDoNLya0MlZF%2Fs8o8t&tid=ys&id=1
-#EXTINF:-1 group-title="央视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0307/20140307093140783.jpg",CCTV-1
 https://cctvalih5ca.v.myalicdn.com/live/cctv1_2/index.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0307/20140307105501248.jpg",CCTV-2
 http://39.135.138.58:18890/PLTV/88888888/224/3221225619/index.m3u8
@@ -393,8 +391,6 @@ http://183.207.249.5:80/PLTV/4/224/3221225783/index.m3u8?UserName=18851042983&MA
 http://live.geermurmt.com/qhws/playlist.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127102446619.jpg",青海卫视
 http://live.geermurmt.com/qhws/sd/live.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127114810155.jpg",三沙卫视
-http://pull.ssws.tv:80/video/s10001-RTMPT/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127051528413.jpg",山东卫视
 http://125.210.152.18:9090/live/SDWSHD_H265.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127051528413.jpg",山东卫视
@@ -489,8 +485,6 @@ https://cn-jxnc-cmcc-live-02.bilivideo.com/live-bvc/817178/live_97065163_1792546
 https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/485022/live_416544064_58389145.m3u8
 #EXTINF:-1 group-title="电影频道",电影2_b站
 https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/557219/live_362963326_14864388.m3u8
-#EXTINF:-1 group-title="电影频道",金马影院
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 group-title="电影频道",高青影视
 http://livealone302.iqilu.com/gaoqing/gaoqing_tv02.m3u8
 #EXTINF:-1 group-title="电影频道",邵氏电影
