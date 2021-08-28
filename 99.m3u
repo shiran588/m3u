@@ -230,7 +230,11 @@ http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221225634/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0105/20140105063514384.jpg",安徽卫视
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225691/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/d/file/2018/0613/small3d75528f7e72766bf831012a4e7a0096.jpg",北京卫视
+http://39.134.155.139/PLTV/88888888/224/3221225659/index.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/d/file/2018/0613/small3d75528f7e72766bf831012a4e7a0096.jpg",北京卫视
 http://223.110.245.173:80/PLTV/4/224/3221227390/index.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/d/file/2018/0613/small3d75528f7e72766bf831012a4e7a0096.jpg",北京卫视
+http://140.207.241.2:8080/live/program/live/bjwshd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127112819830.jpg",兵团卫视
 http://125.210.152.18:9090/live/BTWS.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127112819830.jpg",兵团卫视
@@ -313,6 +317,8 @@ http://183.207.248.71/cntv/live1/n-hubeistv/n-hubeistv
 http://183.207.249.16:80/PLTV/4/224/3221225877/index.m3u8?UserName=18851042983&MAC=8C:6D:50:4C:91:52&OTTUserToken=18851042983-8C:6D:50:4C:91:52&accountinfo=yvxefADiHI1MXW5gaIZO5hiIlKSLiJtBXQdhumM1dH2IsIJmP1UxBAq03L3WxNlzA4vtSIDkGIgBiaqrfuKfc0%2BwWipdMTdABhAgmyZ6eCJ%2B44n3nka6RKvo3i2rqUUb5BH59Yj%2FQnobTSTU3awWrw%3D%3D%3A20180401123822%2C18851042983%2C112.25.46.66%2C20180401123822%2CG_HUBEI%2C1B4CEFC7EE6192335ED71DF86C50D75E%2C%2C0%2C1%2C-1%2C%2C2%2C2000007279%2C2%2C-3%2C2%2CEND&GuardEncType=2&servicetype=1&icpid=88888888&from=5&hms_devid=824
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127070021782.jpg",湖北卫视
 http://223.110.243.171/PLTV/3/224/3221227211/index.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0105/20140105054954388.jpg",湖南卫视
+http://39.134.155.163/PLTV/88888888/224/3221225667/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0105/20140105054954388.jpg",湖南卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225745/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0105/20140105054954388.jpg",湖南卫视
@@ -463,6 +469,8 @@ http://183.207.249.5:80/PLTV/4/224/3221225812/index.m3u8?UserName=18851042983&MA
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225612/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.tvyan.com/uploads/dianshi/sxtvs.jpg",陕西卫视
 http://39.135.138.58:18890/PLTV/88888888/224/3221225729/index.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.tvyan.com/uploads/dianshi/sxtvs.jpg",陕西卫视
+http://140.207.241.2:8080/live/program/live/sxws/1300000/mnf.m3u8
 #EXTINF:-1 group-title="新闻频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0307/20140307105634657.jpg",CCTV-4
 http://39.135.138.58:18890/PLTV/88888888/224/3221225621/index.m3u8
 #EXTINF:-1 group-title="新闻频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0307/20140307105634657.jpg",CCTV-4
@@ -501,20 +509,14 @@ http://125.210.152.18:9090/live/FHZW_1200.m3u8
 http://39.135.53.199/ott.fj.chinamobile.com/PLTV/88888888/224/3221225901/index.m3u8
 #EXTINF:-1 group-title="新闻频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png",凤凰资讯台
 http://zb.ios.ifeng.com:80/live/05QGCOB3T34/index.m3u8
-#EXTINF:-1 group-title="电影频道",华侨电影
-https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/805359/live_362963326_14864388.m3u8
 #EXTINF:-1 group-title="电影频道",kk经典电影
 http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
 #EXTINF:-1 group-title="电影频道",玄幻影院
 https://tx.liveplay.live.kugou.com/live/fx_hifi_1308614369_avc.m3u8
 #EXTINF:-1 group-title="电影频道",邵氏老电影
 https://cn-sdjn2-cmcc-live-01.bilivideo.com/live-bvc/703359/live_97065163_17925468_1500.m3u8
-#EXTINF:-1 group-title="电影频道",邵氏老电影
-https://cn-jxnc-cmcc-live-02.bilivideo.com/live-bvc/817178/live_97065163_17925468.m3u8
 #EXTINF:-1 group-title="电影频道",电影1_b站
 https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/485022/live_416544064_58389145.m3u8
-#EXTINF:-1 group-title="电影频道",电影2_b站
-https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/557219/live_362963326_14864388.m3u8
 #EXTINF:-1 group-title="电影频道",高青影视
 http://livealone302.iqilu.com/gaoqing/gaoqing_tv02.m3u8
 #EXTINF:-1 group-title="电影频道",邵氏电影
