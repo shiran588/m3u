@@ -483,15 +483,17 @@ http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
 http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
 #EXTINF:-1 group-title="电影频道",玄幻影院
 https://tx.liveplay.live.kugou.com/live/fx_hifi_1308614369_avc.m3u8
-#EXTINF:-1 group-title="电影频道",邵氏老电影
-https://cn-sdjn2-cmcc-live-01.bilivideo.com/live-bvc/703359/live_97065163_17925468_1500.m3u8
-#EXTINF:-1 group-title="电影频道",电影1_b站
-https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/485022/live_416544064_58389145.m3u8
 #EXTINF:-1 group-title="电影频道",高青影视
 http://livealone302.iqilu.com/gaoqing/gaoqing_tv02.m3u8
-#EXTINF:-1 group-title="电影频道",邵氏电影
-http://cn-sdjn2-cu-live-01.bilivideo.com/live-bvc/501160/live_97065163_17925468_1500.m3u8
 #EXTINF:-1 group-title="电影频道",娱乐
 http://125.210.152.21:9120/live/GQYL.m3u8
-#EXTINF:-1 group-title="电影频道",香港电影三台
-https://cn-sdjn2-cmcc-live-01.bilivideo.com/live-bvc/235406/live_102569357_4797059_1500.m3u8
+#EXTINF:-1 group-title="电影频道",全新影片
+http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid=
+#EXTINF:-1 group-title="电影频道",周星驰
+http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid=
+#EXTINF:-1 group-title="电影频道",华语经典
+http://dyscdnali1.douyucdn.cn/live/85894rmovieChow.flv?uuid=
+#EXTINF:-1 group-title="电影频道",Running Man
+http://dyscdnali1.douyucdn.cn/live/7298973rVquPyzCT.flv?uuid=
+#EXTINF:-1 group-title="电影频道",韩国女团
+http://dyscdnali1.douyucdn.cn/live/231464ruiASM3G05.flv?uuid=
