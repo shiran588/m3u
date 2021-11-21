@@ -32,8 +32,6 @@ http://117.169.124.36:6610/ysten-businessmobile/live/cctv-3/1.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0307/20140307105538946.jpg",CCTV-3
 http://183.207.249.14/PLTV/3/224/3221225588/index.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0307/20140307105538946.jpg",CCTV-3
-http://223.110.241.137:6610/gitv/live1/G_CCTV-3-HQ/G_CCTV-3-HQ/.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0307/20140307105538946.jpg",CCTV-3
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225647/index.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0307/20140307105634657.jpg",CCTV-4
 http://39.135.138.58:18890/PLTV/88888888/224/3221225621/index.m3u8
@@ -86,8 +84,6 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225650/index.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0307/20140307105736341.jpg",CCTV-6
 http://117.169.124.36:6610/ysten-businessmobile/live/cctv-6/1.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0307/20140307105736341.jpg",CCTV-6
-http://223.110.241.137:6610/gitv/live1/G_CCTV-6-HQ/G_CCTV-6-HQ/.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0307/20140307105736341.jpg",CCTV-6
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225650/index.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="http://www.66zhibo.net/d/file/2019/0801/small72b8227d926ddc9726b07c21f56522a6.jpg",CCTV-7
 http://183.207.248.71/gitv/live1/G_CCTV-7-HQ/G_CCTV-7-HQ
@@ -95,8 +91,6 @@ http://183.207.248.71/gitv/live1/G_CCTV-7-HQ/G_CCTV-7-HQ
 http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="http://www.66zhibo.net/d/file/2019/0801/small72b8227d926ddc9726b07c21f56522a6.jpg",CCTV-7
 http://125.210.152.18:9090/live/CCTV7HD_H265.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="http://www.66zhibo.net/d/file/2019/0801/small72b8227d926ddc9726b07c21f56522a6.jpg",CCTV-7
-http://223.110.241.137:6610/gitv/live1/G_CCTV-7-HQ/G_CCTV-7-HQ/.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="http://www.66zhibo.net/d/file/2019/0801/small72b8227d926ddc9726b07c21f56522a6.jpg",CCTV-7
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225499/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="央视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0111/20140111100415975.jpg",CCTV-8
@@ -248,8 +242,6 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225701/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127062745655.jpg",广东卫视
 http://223.110.243.162/ott.js.chinamobile.com/PLTV/3/224/3221227591/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127062745655.jpg",广东卫视
-http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221227673/index.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127062745655.jpg",广东卫视
 http://223.110.245.172:80/PLTV/4/224/3221227399/index.m3u8?UserName=18851042983&MAC=8C:6D:50:4C:91:52&OTTUserToken=18851042983-8C:6D:50:4C:91:52&accountinfo=yvxefADiHI1MXW5gaIZO5hiIlKSLiJtBXQdhumM1dH2IsIJmP1UxBAq03L3WxNlzfOIX59FPdAado7h9s5ZUS0%2BwWipdMTdABhAgmyZ6eCI0i665oedelQppvPSiaQLT7c8StmdsL2WcY51PN8NbzQ%3D%3D%3A20180401122308%2C18851042983%2C112.25.7.202%2C20180401122308%2CG_GUANGDONG-HQ%2C1B4CEFC7EE6192335ED71DF86C50D75E%2C%2C0%2C1%2C-1%2C%2C2%2C2000007279%2C2%2C-3%2C2%2CEND&GuardEncType=2&servicetype=1&icpid=88888888&from=5&hms_devid=23
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127102115885.jpg",广西卫视
 http://39.135.140.231:6610/PLTV/88888888/224/3221226211/2/index.m3u8?fmt=ts2hls
@@ -377,8 +369,6 @@ http://live.geermurmt.com/qhws/playlist.m3u8
 http://live.geermurmt.com/qhws/sd/live.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127051528413.jpg",山东卫视
 http://125.210.152.18:9090/live/SDWSHD_H265.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127051528413.jpg",山东卫视
-http://183.207.249.7:80/PLTV/4/224/3221225804/index.m3u8?UserName=18851042983&MAC=8C:6D:50:4C:91:52&OTTUserToken=18851042983-8C:6D:50:4C:91:52&accountinfo=yvxefADiHI1MXW5gaIZO5hiIlKSLiJtBXQdhumM1dH2IsIJmP1UxBAq03L3WxNlzA4vtSIDkGIgBiaqrfuKfc0%2BwWipdMTdABhAgmyZ6eCJrlys92hyPwaKiNDdiJAji%2FGeTXujkho76bRlXTGelQQ%3D%3D%3A20180401123013%2C18851042983%2C112.25.46.66%2C20180401123013%2CWS%2C1B4CEFC7EE6192335ED71DF86C50D75E%2C%2C0%2C1%2C-1%2C%2C2%2C2000007279%2C2%2C-3%2C2%2CEND&GuardEncType=2&servicetype=1&icpid=88888888&from=5&hms_devid=744
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127103829275.jpg",山西卫视
 http://39.136.18.76/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225730/1/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127103829275.jpg",山西卫视
@@ -453,19 +443,57 @@ http://117.169.120.138:8080/live/fhchinese/index.m3u8
 http://117.169.120.138:8080/live/fhzixun/1.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.cietv.com/img/fhzx.jpg",凤凰资讯台
 http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
-#EXTINF:-1 group-title="电影频道",kk经典电影
-http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
-#EXTINF:-1 group-title="电影频道",玄幻影院
-https://tx.liveplay.live.kugou.com/live/fx_hifi_1308614369_avc.m3u8
-#EXTINF:-1 group-title="电影频道",高青影视
-http://livealone302.iqilu.com/gaoqing/gaoqing_tv02.m3u8
-#EXTINF:-1 group-title="电影频道",娱乐
-http://125.210.152.21:9120/live/GQYL.m3u8
-#EXTINF:-1 group-title="电影频道",全新影片
+#EXTINF:-1 group-title="斗鱼电影娱乐",全新影片
 http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid=
-#EXTINF:-1 group-title="电影频道",周星驰
+#EXTINF:-1 group-title="斗鱼电影娱乐",周星驰
 http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid=
-#EXTINF:-1 group-title="电影频道",华语经典
+#EXTINF:-1 group-title="斗鱼电影娱乐",华语经典
 http://dyscdnali1.douyucdn.cn/live/85894rmovieChow.flv?uuid=
-#EXTINF:-1 group-title="电影频道",Running Man
+#EXTINF:-1 group-title="斗鱼电影娱乐",Running Man
 http://dyscdnali1.douyucdn.cn/live/7298973rVquPyzCT.flv?uuid=
+#EXTINF:-1 group-title="斗鱼电影娱乐",经典国产大片
+http://dyscdnali1.douyucdn.cn/dyliveflv3/8986148ruX1Bn8o2.flv?uuid=
+#EXTINF:-1 group-title="斗鱼电影娱乐",经典喜剧专场
+http://dyscdnali1.douyucdn.cn/dyliveflv3a/9650887rhRPGTBPZ.flv?uuid=
+#EXTINF:-1 group-title="斗鱼电影娱乐",经典 恐怖 鬼怪 剧场
+http://dyscdnali1.douyucdn.cn/dyliveflv3a/1165374rljpm9P7F.flv?uuid=
+#EXTINF:-1 group-title="斗鱼电影娱乐",经典 科幻 动作 灾难 巨兽
+http://dyscdnali1.douyucdn.cn/live/252802r02PBvJk8K_4000.flv?uuid=
+#EXTINF:-1 group-title="斗鱼电影娱乐",欧美 科幻 经典
+http://dyscdnali1.douyucdn.cn/dyliveflv1/20415rnWbjg6Ex1K_4000.flv?uuid=
+#EXTINF:-1 group-title="斗鱼电影娱乐",欧美大片
+http://dyscdnali1.douyucdn.cn/dyliveflv3a/2793084rjUc2tneU.flv?uuid=
+#EXTINF:-1 group-title="斗鱼电影娱乐",今夜必看
+http://dyscdnali1.douyucdn.cn/dyliveflv3/1428266rSttlV4km_900.flv?uuid=
+#EXTINF:-1 group-title="斗鱼电影娱乐",科幻 动作 喜剧 电影
+http://dyscdnali1.douyucdn.cn/live/323876rVG9fNP17E_4000.flv?uuid=
+#EXTINF:-1 group-title="斗鱼电影娱乐",鬼片 僵尸 灾难 丧尸片
+http://dyscdnali1.douyucdn.cn/dyliveflv3/310926r9JZs8IUaq_900.flv?uuid=
+#EXTINF:-1 group-title="斗鱼电影娱乐",鬼片 恐怖 惊悚
+http://dyscdnali1.douyucdn.cn/live/2935323rxVXxNQ1b_900.flv?uuid=
+#EXTINF:-1 group-title="斗鱼电影娱乐",喜剧电影专场
+http://dyscdnali1.douyucdn.cn/dyliveflv3a/9292492rJ9yc1sqz.flv?uuid=
+#EXTINF:-1 group-title="斗鱼电影娱乐",喜剧、黑帮、动作
+http://dyscdnali1.douyucdn.cn/dyliveflv1/315457rtOkUP9dtx_900.flv?uuid=
+#EXTINF:-1 group-title="斗鱼电影娱乐",林正英?僵尸女鬼经典影片
+http://dyscdnali1.douyucdn.cn/dyliveflv3/8921999rwQSVI55h_900.flv?uuid=
+#EXTINF:-1 group-title="斗鱼电影娱乐",星爷 沈腾 成龙 喜剧
+http://dyscdnali1.douyucdn.cn/dyliveflv3a/925724r3nPnPko3N_900.flv?uuid=
+#EXTINF:-1 group-title="斗鱼电影娱乐",喜剧 科幻 动作
+http://dyscdnali1.douyucdn.cn/dyliveflv3a/10324302rIgWsPOf.flv?uuid=
+#EXTINF:-1 group-title="斗鱼电影娱乐",成龙/动作/武侠
+http://dyscdnali1.douyucdn.cn/dyliveflv3a/6763930rQ0VfA1mV_900.flv?uuid=
+#EXTINF:-1 group-title="斗鱼电影娱乐",星爷经典不间断
+http://dyscdnali1.douyucdn.cn/dyliveflv3/3990812rLZAwV3Z9.flv?uuid=
+#EXTINF:-1 group-title="斗鱼电影娱乐",僵尸女鬼恐怖片
+http://dyscdnali1.douyucdn.cn/dyliveflv3a/5503962rYr3lNmtL.flv?uuid=
+#EXTINF:-1 group-title="斗鱼电影娱乐",林正英僵尸女鬼
+http://dyscdnali1.douyucdn.cn/live/218859rqPPCnL2wr_900.flv?uuid=
+#EXTINF:-1 group-title="斗鱼电影娱乐",恐怖/经典/搞笑
+http://dyscdnali1.douyucdn.cn/dyliveflv3a/74374rZ6i8iMazNW.flv?uuid=
+#EXTINF:-1 group-title="斗鱼电影娱乐",豆瓣高分电影
+http://dyscdnali1.douyucdn.cn/dyliveflv3a/52787rEKyx5UJA7E_900p.flv?uuid=
+#EXTINF:-1 group-title="斗鱼电影娱乐",kk经典电影
+http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
+#EXTINF:-1 group-title="斗鱼电影娱乐",玄幻影院
+https://tx.liveplay.live.kugou.com/live/fx_hifi_1308614369_avc.m3u8
