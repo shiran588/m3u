@@ -421,8 +421,6 @@ http://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
 http://117.169.120.138:8080/live/fhzixun/1.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.cietv.com/img/fhzx.jpg",凤凰卫视资讯台
 http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
-#EXTINF:-1 group-title="电影娱乐" tvg-logo="https://bkimg.cdn.bcebos.com/pic/c8177f3e6709c93dc4acc456943df8dcd1005431",邵氏电影
-http://zzy789.xyz/douyu1.php?id=4246519&type=.flv
 #EXTINF:-1 group-title="电影娱乐" tvg-logo="http://img.duoziwang.com/2018/17/05142055608290.jpg",林正英电影
 http://zzy789.xyz/douyu1.php?id=218859&type=.flv
 #EXTINF:-1 group-title="电影娱乐" tvg-logo="http://cdn.lsal.cn/z/0/2/1017mt.jpg",周星驰电影
@@ -437,10 +435,44 @@ http://1.117.152.239:39000/huya.php?id=11342390&type=.m3u8
 http://1.117.152.239:39000/huya.php?id=11342387&type=.m3u8
 #EXTINF:-1 group-title="电影娱乐" tvg-logo="http://cdn.lsal.cn/z/0/5/1006md.jpg",刘德华电影
 http://1.117.152.239:39000/huya.php?id=11342424&type=.m3u8
+#EXTINF:-1 group-title="电影娱乐" tvg-logo="http://pic.22520.cn/up/200810/1597062468980479.jpg",星爷经典不间断
+http://1.117.152.239:39000/huya.php?id=11342412&type=.m3u8
+#EXTINF:-1 group-title="电影娱乐" tvg-logo="https://tupian.qqw21.com/article/UploadPic/2015-2/2015282026961924.jpg",吴京/甄子丹/李连杰/成龙/刘德华动作
+http://1.117.152.239:39000/huya.php?id=15454980&type=.m3u8
+#EXTINF:-1 group-title="电影娱乐" tvg-logo="http://img.duoziwang.com/2016/12/17/16210159587.jpg",喜剧片
+http://1.117.152.239:39000/huya.php?id=11352878&type=.m3u8
+#EXTINF:-1 group-title="电影娱乐" tvg-logo="http://img.duoziwang.com/2018/17/05142055606533.jpg",武侠专场
+http://1.117.152.239:39000/huya.php?id=24826822&type=.m3u8
+#EXTINF:-1 group-title="电影娱乐" tvg-logo="http://img.duoziwang.com/2017/10/172253349672.jpg",古惑仔/陈浩南
+http://1.117.152.239:39000/huya.php?id=118524&type=.m3u8
+#EXTINF:-1 group-title="电影娱乐" tvg-logo="http://touxiang.ikkss.com/avatar/201909/2019090110173227.jpg",黑帮大片
+http://1.117.152.239:39000/huya.php?id=11336719&type=.m3u8
+#EXTINF:-1 group-title="电影娱乐" tvg-logo="https://lmg.jj20.com/up/allimg/tx09/0818201920989.jpg",恐怖，僵尸电影
+http://1.117.152.239:39000/huya.php?id=25129062&type=.m3u8
+#EXTINF:-1 group-title="电影娱乐" tvg-logo="http://ma-re.ru/upload/resize_cache/iblock/704/146_113_2/70471ea2362146b53d7b6fb8f3d2cb42.jpg",五福星系列
+http://1.117.152.239:39000/huya.php?id=11282233&type=.m3u8
+#EXTINF:-1 group-title="电影娱乐" tvg-logo="https://lmg.jj20.com/up/allimg/tx13/082120195394.jpg",喜剧专场
+http://1.117.152.239:39000/huya.php?id=11602044&type=.m3u8
+#EXTINF:-1 group-title="电影娱乐" tvg-logo="https://img2.woyaogexing.com/2020/03/25/7903f6591fe34c549b0e2c61fcfb8c2e!400x400.jpeg",经典星爷
+http://1.117.152.239:39000/huya.php?id=11352916&type=.m3u8
+#EXTINF:-1 group-title="电影娱乐" tvg-logo="http://img.zhaogexing.com/2020/01/12/1578801923127920.jpg",女神系列
+http://1.117.152.239:39000/huya.php?id=11336571&type=.m3u8
+#EXTINF:-1 group-title="电影娱乐" tvg-logo="http://image14.m1905.cn/mdb/uploadfile/2018/1119/thumb_1_168_230_20181119015744879117.jpg",王晶电影
+http://1.117.152.239:39000/huya.php?id=11602058&type=.m3u8
+#EXTINF:-1 group-title="电影娱乐" tvg-logo="http://img.duoziwang.com/2018/17/05142055606518.jpg",经典港式功夫
+http://1.117.152.239:39000/huya.php?id=11352892&type=.m3u8
+#EXTINF:-1 group-title="电影娱乐" tvg-logo="http://m.imeitou.com/uploads/allimg/2021072018/er141bhuizr-lp.jpg",金庸的武侠世界
+http://1.117.152.239:39000/huya.php?id=11342435&type=.m3u8
+#EXTINF:-1 group-title="电影娱乐" tvg-logo="http://www.hinews.cn/pic/0/11/58/49/11584930_706544.jpg",洪金宝电影
+http://1.117.152.239:39000/huya.php?id=11279251&type=.m3u8
+#EXTINF:-1 group-title="电影娱乐" tvg-logo="http://img.duoziwang.com/2018/17/05142055613220.jpg",邱淑贞电影
+http://1.117.152.239:39000/huya.php?id=11352949&type=.m3u8
 #EXTINF:-1 group-title="电影娱乐" tvg-logo="http://qq.onegreen.net/weixin/UploadFiles/201510/2015101417204232.png",甄子丹电影
 http://1.117.152.239:39000/huya.php?id=11342424&type=.m3u8
 #EXTINF:-1 group-title="电影娱乐" tvg-logo="https://tupian.qqw21.com/article/UploadPic/2012-8/2012816144255879.jpg",吴京电影
 http://1.117.152.239:39000/huya.php?id=11602045&type=.m3u8
+#EXTINF:-1 group-title="电影娱乐" tvg-logo="https://bkimg.cdn.bcebos.com/pic/c8177f3e6709c93dc4acc456943df8dcd1005431",邵氏电影
+http://zzy789.xyz/douyu1.php?id=4246519&type=.flv
 #EXTINF:-1 group-title="电影娱乐" tvg-logo="http://img1.gamersky.com/image2012/09/20120905v_12/gamersky_01small_02.jpg",全新影片
 http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid=
 #EXTINF:-1 group-title="电影娱乐" tvg-logo="http://img1.gamersky.com/image2012/09/20120905v_12/gamersky_14small_28.jpg",周星驰
@@ -465,15 +497,3 @@ http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
 https://tx.liveplay.live.kugou.com/live/fx_hifi_1308614369_avc.m3u8
 #EXTINF:-1 group-title="电影娱乐" tvg-logo="http://img1.gamersky.com/image2012/09/20120905v_12/gamersky_06small_12.jpg",大众影院
 http://223.110.243.157/ott.js.chinamobile.com/PLTV/3/224/3221227579/index.m3u8
-#EXTINF:-1 group-title="电影娱乐" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg",CHC高清电影
-http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
-#EXTINF:-1 group-title="电影娱乐" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg",CHC家庭影院
-http://39.134.18.68/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
-#EXTINF:-1 group-title="电影娱乐" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shanghaidongfangyingshi.png",东方影视
-http://183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="电影娱乐" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png",峨眉电影
-https://jsylivealone302.iqilu.com/jitie/jitie_tv01/index.m3u8
-#EXTINF:-1 group-title="电影娱乐" tvg-logo="http://img1.gamersky.com/image2012/09/20120906v_16/gamersky_01small_02.jpg",河北影视剧
-http://live6.plus.hebtv.com/hbysx/hd/live.m3u8
-#EXTINF:-1 group-title="电影娱乐" tvg-logo="http://img1.gamersky.com/image2012/09/20120906v_16/gamersky_02small_04.jpg",福州影视
-http://live.zohi.tv/video/s10001-yspd-2/index.m3u8
