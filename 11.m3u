@@ -194,13 +194,11 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225489/index.m3u8?fmt=
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127053017633.jpg",东方卫视
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hddfws/4000000/mnf.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127070834599.jpg",东南卫视
-http://39.134.39.38/PLTV/88888888/224/3221226182/index.m3u8
+http://111.40.196.28/PLTV/88888888/224/3221225583/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127070834599.jpg",东南卫视
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dnwshd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127113347258.jpg",甘肃卫视
-http://39.134.39.38/PLTV/88888888/224/3221226240/index.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127113347258.jpg",甘肃卫视
-http://39.134.39.39/PLTV/88888888/224/3221226240/index.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225724/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127062745655.jpg",广东卫视
 http://39.135.138.58:18890/PLTV/88888888/224/3221225701/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127062745655.jpg",广东卫视
@@ -210,9 +208,7 @@ http://223.110.243.162/ott.js.chinamobile.com/PLTV/3/224/3221227591/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127062745655.jpg",广东卫视
 http://223.110.245.172:80/PLTV/4/224/3221227399/index.m3u8?UserName=18851042983&MAC=8C:6D:50:4C:91:52&OTTUserToken=18851042983-8C:6D:50:4C:91:52&accountinfo=yvxefADiHI1MXW5gaIZO5hiIlKSLiJtBXQdhumM1dH2IsIJmP1UxBAq03L3WxNlzfOIX59FPdAado7h9s5ZUS0%2BwWipdMTdABhAgmyZ6eCI0i665oedelQppvPSiaQLT7c8StmdsL2WcY51PN8NbzQ%3D%3D%3A20180401122308%2C18851042983%2C112.25.7.202%2C20180401122308%2CG_GUANGDONG-HQ%2C1B4CEFC7EE6192335ED71DF86C50D75E%2C%2C0%2C1%2C-1%2C%2C2%2C2000007279%2C2%2C-3%2C2%2CEND&GuardEncType=2&servicetype=1&icpid=88888888&from=5&hms_devid=23
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127102115885.jpg",广西卫视
-http://39.135.140.231:6610/PLTV/88888888/224/3221226211/2/index.m3u8?fmt=ts2hls
-#EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127102115885.jpg",广西卫视
-http://39.135.140.237:6610/PLTV/88888888/224/3221226211/2/index.m3u8?fmt=ts2hls
+http://39.134.115.163:8080/PLTV/88888910/224/3221225731/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127102115885.jpg",广西卫视
 http://183.207.249.5:80/PLTV/4/224/3221225806/index.m3u8?UserName=18851042983&MAC=8C:6D:50:4C:91:52&OTTUserToken=18851042983-8C:6D:50:4C:91:52&accountinfo=yvxefADiHI1MXW5gaIZO5hiIlKSLiJtBXQdhumM1dH2IsIJmP1UxBAq03L3WxNlzA4vtSIDkGIgBiaqrfuKfc0%2BwWipdMTdABhAgmyZ6eCIQPP2eeGyS5ilmqdvDTPcoF%2FqPKRon1Cmyyd%2B0U6oF5w%3D%3D%3A20180401123038%2C18851042983%2C112.25.46.66%2C20180401123038%2CGXWS%2C1B4CEFC7EE6192335ED71DF86C50D75E%2C%2C0%2C1%2C-1%2C%2C2%2C2000007279%2C2%2C-3%2C2%2CEND&GuardEncType=2&servicetype=1&icpid=88888888&from=5&hms_devid=724
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127094656144.jpg",贵州卫视
@@ -222,7 +218,7 @@ http://223.110.245.149/ott.js.chinamobile.com/PLTV/3/224/3221225787/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127094656144.jpg",贵州卫视
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225483/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/d/file/2019/0622/smalleaeb78d2c98830857f23f9da1ed623ee.jpg",海南卫视
-http://39.135.140.233:6610/PLTV/88888888/224/3221226212/2/index.m3u8?fmt=ts2hls
+http://39.134.115.163:8080/PLTV/88888910/224/3221225722/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/d/file/2019/0622/smalleaeb78d2c98830857f23f9da1ed623ee.jpg",海南卫视
 http://183.207.249.16:80/PLTV/4/224/3221225810/index.m3u8?UserName=18851042983&MAC=8C:6D:50:4C:91:52&OTTUserToken=18851042983-8C:6D:50:4C:91:52&accountinfo=yvxefADiHI1MXW5gaIZO5hiIlKSLiJtBXQdhumM1dH2IsIJmP1UxBAq03L3WxNlzA4vtSIDkGIgBiaqrfuKfc0%2BwWipdMTdABhAgmyZ6eCJ60IIgyqnlmw%2FtqpJXaK%2FQqTjVakPEBLwZI6QN06RVzg%3D%3D%3A20180401123146%2C18851042983%2C112.25.46.66%2C20180401123146%2CLYWS%2C1B4CEFC7EE6192335ED71DF86C50D75E%2C%2C0%2C1%2C-1%2C%2C2%2C2000007279%2C2%2C-3%2C2%2CEND&GuardEncType=2&servicetype=1&icpid=88888888&from=5&hms_devid=824
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127095100348.jpg",河北卫视
@@ -293,8 +289,6 @@ http://39.135.138.58:18890/PLTV/88888888/224/3221225696/index.m3u8
 http://39.135.138.58:18890/PLTV/88888888/224/3221225735/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0105/20140105070406131.jpg",辽宁卫视
 http://183.207.248.71/cntv/live1/liaoningstv/liaoningstv
-#EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0105/20140105070406131.jpg",辽宁卫视
-http://39.134.39.38/PLTV/88888888/224/3221226209/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0105/20140105070406131.jpg",辽宁卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225735/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0105/20140105070406131.jpg",辽宁卫视
@@ -401,6 +395,16 @@ http://117.169.120.138:8080/live/fhzixun/1.m3u8
 http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
 #EXTINF:-1 group-title="电影娱乐" tvg-logo="http://img.duoziwang.com/2018/17/05142055608290.jpg",林正英电影
 http://zzy789.xyz/douyu1.php?id=218859&type=.flv
+#EXTINF:-1 group-title="电影娱乐" tvg-logo="https://tupian.qqw21.com/article/UploadPic/2016-5/20165221281831850.jpg",女神系列邱淑贞王祖贤张曼玉
+http://121.51.249.99/txdirect.hls.huya.com/src/1388451591-1388451591-5963354175424167936-2777026638-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="电影娱乐" tvg-logo="https://lmg.jj20.com/up/allimg/tx13/082120198814.jpg",周末电影院1
+http://tx2play1.douyucdn.cn/live/3637726rQLDdfto7.xs
+#EXTINF:-1 group-title="电影娱乐" tvg-logo="https://lmg.jj20.com/up/allimg/tx13/082120198814.jpg",周末电影院2
+http://tx2play1.douyucdn.cn/live/3637765rrt97QwBF.xs
+#EXTINF:-1 group-title="电影娱乐" tvg-logo="http://pic.22520.cn/up/200810/1597062468980479.jpg",星爷经典不间断
+http://121.51.249.99/txdirect.hls.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.m3u8
+#EXTINF:-1 group-title="电影娱乐" tvg-logo="http://pic.22520.cn/up/200810/1597062468980479.jpg",星爷经典不间断1
+http://117.148.179.153/PLTV/88888888/224/3221231562/index.m3u8
 #EXTINF:-1 group-title="电影娱乐" tvg-logo="http://www.gpmovie.com/pic/uploadimg/2018-12/2018121316445919186.jpg",香港鬼片
 http://cn-sdjn3-cu-live-01.bilivideo.com/live-bvc/874778/live_22989278_9714011_1500.m3u8
 #EXTINF:-1 group-title="电影娱乐" tvg-logo="http://tvax4.sinaimg.cn/large/006sgDP3gy1gukylkeya0j607i0ai74t02.jpg",喜剧联盟
@@ -409,24 +413,22 @@ http://117.148.179.154/PLTV/88888888/224/3221231621/index.m3u8
 http://117.148.179.163/PLTV/88888888/224/3221231687/index.m3u8
 #EXTINF:-1 group-title="电影娱乐" tvg-logo="http://qq.onegreen.net/QQ/UploadFiles/201001/2010012000121371.gif",李连杰电影
 http://1.117.152.239:39000/huya.php?id=11342390&type=.m3u8
-#EXTINF:-1 group-title="电影娱乐" tvg-logo="http://cdn.lsal.cn/z/0/3/1000md.jpg",周润发电影1
+#EXTINF:-1 group-title="电影娱乐" tvg-logo="http://qq.onegreen.net/QQ/UploadFiles/201001/2010012000121371.gif",李连杰系列
+http://121.51.249.99/txdirect.hls.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1-imgplus.m3u8
+#EXTINF:-1 group-title="电影娱乐" tvg-logo="http://cdn.lsal.cn/z/0/3/1000md.jpg",周润发电影
 http://117.148.179.177/PLTV/88888888/224/3221231709/index.m3u8
-#EXTINF:-1 group-title="电影娱乐" tvg-logo="http://cdn.lsal.cn/z/0/3/1000md.jpg",周润发电影2
-http://1.117.152.239:39000/huya.php?id=11342387&type=.m3u8
+#EXTINF:-1 group-title="电影娱乐" tvg-logo="http://cdn.lsal.cn/z/0/3/1000md.jpg",周润发电影1
+http://121.51.249.99/txdirect.hls.huya.com/src/1394565192-1394565192-5989611891779960832-2789253840-10057-A-0-1-imgplus.m3u8
 #EXTINF:-1 group-title="电影娱乐" tvg-logo="http://cdn.lsal.cn/z/0/5/1006md.jpg",刘德华电影
 http://1.117.152.239:39000/huya.php?id=11342424&type=.m3u8
 #EXTINF:-1 group-title="电影娱乐" tvg-logo="http://cdn.lsal.cn/z/0/5/1006md.jpg",刘德华电影2
 http://112.74.200.9:88/tv000000/m3u8.php?/migu/659315648
-#EXTINF:-1 group-title="电影娱乐" tvg-logo="http://pic.22520.cn/up/200810/1597062468980479.jpg",星爷经典不间断
-http://117.148.179.153/PLTV/88888888/224/3221231562/index.m3u8
 #EXTINF:-1 group-title="电影娱乐" tvg-logo="http://pic.22520.cn/up/200810/1597062468980479.jpg",周星驰影院
 http://112.74.200.9:88/tv000000/m3u8.php?/migu/623338112
 #EXTINF:-1 group-title="电影娱乐" tvg-logo="http://img.duoziwang.com/2018/19/07111648911255.jpg",古天乐影院
 http://117.148.179.176/PLTV/88888888/224/3221231645/index.m3u8
 #EXTINF:-1 group-title="电影娱乐" tvg-logo="http://touxiang.ikkss.com/avatar/201909/2019090110173227.jpg",黑帮大片
 http://1.117.152.239:39000/huya.php?id=11336719&type=.m3u8
-#EXTINF:-1 group-title="电影娱乐" tvg-logo="http://ma-re.ru/upload/resize_cache/iblock/704/146_113_2/70471ea2362146b53d7b6fb8f3d2cb42.jpg",五福星系列
-http://1.117.152.239:39000/huya.php?id=11282233&type=.m3u8
 #EXTINF:-1 group-title="电影娱乐" tvg-logo="https://lmg.jj20.com/up/allimg/tx13/082120195394.jpg",喜剧专场
 http://1.117.152.239:39000/huya.php?id=11602044&type=.m3u8
 #EXTINF:-1 group-title="电影娱乐" tvg-logo="https://img2.woyaogexing.com/2020/03/25/7903f6591fe34c549b0e2c61fcfb8c2e!400x400.jpeg",经典星爷
@@ -459,8 +461,6 @@ http://dyscdnali1.douyucdn.cn/dyliveflv3/8986148ruX1Bn8o2.flv?uuid=
 http://dyscdnali1.douyucdn.cn/dyliveflv1/20415rnWbjg6Ex1K_4000.flv?uuid=
 #EXTINF:-1 group-title="电影娱乐" tvg-logo="http://img1.gamersky.com/image2012/09/20120905v_12/gamersky_10small_20.jpg",科幻 动作 喜剧 电影
 http://dyscdnali1.douyucdn.cn/live/323876rVG9fNP17E_4000.flv?uuid=
-#EXTINF:-1 group-title="电影娱乐" tvg-logo="http://img1.gamersky.com/image2012/09/20120905v_12/gamersky_03small_06.jpg",豆瓣高分电影
-http://dyscdnali1.douyucdn.cn/dyliveflv3a/52787rEKyx5UJA7E_900p.flv?uuid=
 #EXTINF:-1 group-title="电影娱乐" tvg-logo="http://img1.gamersky.com/image2012/09/20120905v_12/gamersky_04small_08.jpg",kk经典电影
 http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
 #EXTINF:-1 group-title="电影娱乐" tvg-logo="http://img1.gamersky.com/image2012/09/20120905v_12/gamersky_09small_18.jpg",玄幻影院
