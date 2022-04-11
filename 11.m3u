@@ -272,7 +272,7 @@ http://183.207.249.6:80/PLTV/4/224/3221225786/index.m3u8?UserName=18851042983&MA
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.haoqiu365.com/uploadfile/2014/0506/20140506010445710.jpg",山东卫视
 http://111.40.196.27/PLTV/88888888/224/3221225526/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.haoqiu365.com/uploadfile/2014/0506/20140506010445710.jpg",山东卫视
-https://livealone302.iqilu.com/iqilu/sdtv.m3u8
+http://117.148.179.137/PLTV/88888888/224/3221227909/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127065349318.jpg",深圳卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225741/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127065349318.jpg",深圳卫视
@@ -367,15 +367,5 @@ http://117.148.179.146/PLTV/88888888/224/3221231513/index.m3u8
 http://1.117.152.239:39000/huya.php?id=11279251&type=.m3u8
 #EXTINF:-1 group-title="电影娱乐" tvg-logo="http://img.duoziwang.com/2018/17/05142055613220.jpg",邱淑贞电影
 http://1.117.152.239:39000/huya.php?id=11352949&type=.m3u8
-#EXTINF:-1 group-title="电影娱乐" tvg-logo="http://img1.gamersky.com/image2012/09/20120905v_12/gamersky_01small_02.jpg",全新影片
-http://dyscdnali1.douyucdn.cn/live/3637778raLSXdOdu.flv?uuid=
-#EXTINF:-1 group-title="电影娱乐" tvg-logo="http://img1.gamersky.com/image2012/09/20120905v_12/gamersky_14small_28.jpg",周星驰
-http://dyscdnali1.douyucdn.cn/live/122402rK7MO9bXSq.flv?uuid=
-#EXTINF:-1 group-title="电影娱乐" tvg-logo="http://img1.gamersky.com/image2012/09/20120905v_12/gamersky_15small_30.jpg",华语经典
-http://dyscdnali1.douyucdn.cn/live/85894rmovieChow.flv?uuid=
-#EXTINF:-1 group-title="电影娱乐" tvg-logo="http://img1.gamersky.com/image2012/09/20120905v_12/gamersky_12small_24.jpg",经典国产大片
-http://dyscdnali1.douyucdn.cn/dyliveflv3/8986148ruX1Bn8o2.flv?uuid=
-#EXTINF:-1 group-title="电影娱乐" tvg-logo="http://img1.gamersky.com/image2012/09/20120905v_12/gamersky_02small_04.jpg",欧美 科幻 经典
-http://dyscdnali1.douyucdn.cn/dyliveflv1/20415rnWbjg6Ex1K_4000.flv?uuid=
 #EXTINF:-1 group-title="电影娱乐" tvg-logo="http://img1.gamersky.com/image2012/09/20120905v_12/gamersky_04small_08.jpg",kk经典电影
 http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
