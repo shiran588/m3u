@@ -290,7 +290,7 @@ http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/YANBIAN1.png",延边卫视
 http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127054817586.jpg",云南卫视
-http://117.148.179.141/PLTV/88888888/224/3221231499/index.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225664/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127054817586.jpg",云南卫视
 http://111.40.196.29/PLTV/88888888/224/3221225644/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0105/20140105063047305.jpg",浙江卫视
@@ -300,7 +300,7 @@ http://183.207.249.34:80/PLTV/4/224/3221227393/index.m3u8?UserName=18851042983&M
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0105/20140105063047305.jpg",浙江卫视
 http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0105/20140105063047305.jpg",浙江卫视
-http://yd-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127094352591.jpg",重庆卫视
 http://111.40.196.31/PLTV/88888888/224/3221225514/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127094352591.jpg",重庆卫视
@@ -347,8 +347,6 @@ http://117.169.120.138:8080/live/fhzixun/1.m3u8
 http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
 #EXTINF:-1 group-title="新闻频道" tvg-logo="http://www.cietv.com/img/fhzx.jpg",凤凰卫视资讯台
 http://117.169.120.138:8080/live/fhzixun/.m3u8
-#EXTINF:-1 group-title="电影娱乐" tvg-logo="http://pic.22520.cn/up/200810/1597062468980479.jpg",星爷经典不间断1
-http://117.148.179.153/PLTV/88888888/224/3221231562/index.m3u8
 #EXTINF:-1 group-title="电影娱乐" tvg-logo="http://tvax4.sinaimg.cn/large/006sgDP3gy1gukylkeya0j607i0ai74t02.jpg",喜剧联盟
 http://117.148.179.154/PLTV/88888888/224/3221231621/index.m3u8
 #EXTINF:-1 group-title="电影娱乐" tvg-logo="http://img.duoziwang.com/2018/17/05251620908854.jpg",成龙电影
@@ -361,13 +359,7 @@ http://112.74.200.9:88/tv000000/m3u8.php?/migu/659315648
 http://112.74.200.9:88/tv000000/m3u8.php?/migu/623338112
 #EXTINF:-1 group-title="电影娱乐" tvg-logo="http://img.duoziwang.com/2018/19/07111648911255.jpg",古天乐影院
 http://117.148.179.176/PLTV/88888888/224/3221231645/index.m3u8
-#EXTINF:-1 group-title="电影娱乐" tvg-logo="http://img.duoziwang.com/2018/17/05142055606518.jpg",经典港式功夫
-http://1.117.152.239:39000/huya.php?id=11352892&type=.m3u8
 #EXTINF:-1 group-title="电影娱乐" tvg-logo="http://www.laodianying8.com/uploadfile/201203/18/186266213.jpg",怀旧老片
 http://117.148.179.146/PLTV/88888888/224/3221231513/index.m3u8
-#EXTINF:-1 group-title="电影娱乐" tvg-logo="http://www.hinews.cn/pic/0/11/58/49/11584930_706544.jpg",洪金宝电影
-http://1.117.152.239:39000/huya.php?id=11279251&type=.m3u8
-#EXTINF:-1 group-title="电影娱乐" tvg-logo="http://img.duoziwang.com/2018/17/05142055613220.jpg",邱淑贞电影
-http://1.117.152.239:39000/huya.php?id=11352949&type=.m3u8
 #EXTINF:-1 group-title="电影娱乐" tvg-logo="http://img1.gamersky.com/image2012/09/20120905v_12/gamersky_04small_08.jpg",kk经典电影
 http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
