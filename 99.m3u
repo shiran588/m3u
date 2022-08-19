@@ -24,8 +24,6 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225647/index.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0307/20140307105538946.jpg",CCTV-3
 http://111.63.117.13:6060/030000001000/CCTV-3/CCTV-3.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0307/20140307105538946.jpg",CCTV-3
-http://183.207.249.14/PLTV/3/224/3221225588/index.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0307/20140307105538946.jpg",CCTV-3
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225647/index.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0307/20140307105634657.jpg",CCTV-4
 http://39.135.138.58:18890/PLTV/88888888/224/3221225621/index.m3u8
@@ -132,27 +130,25 @@ http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225909/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0105/20140105063514384.jpg",安徽卫视
 http://111.40.196.25/PLTV/88888888/224/3221225551/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0105/20140105063514384.jpg",安徽卫视
-http://183.207.249.5:80/PLTV/4/224/3221225800/index.m3u8?UserName=18851042983&MAC=8C:6D:50:4C:91:52&OTTUserToken=18851042983-8C:6D:50:4C:91:52&accountinfo=yvxefADiHI1MXW5gaIZO5hiIlKSLiJtBXQdhumM1dH2IsIJmP1UxBAq03L3WxNlzfOIX59FPdAado7h9s5ZUS0%2BwWipdMTdABhAgmyZ6eCKikSZpTvRn%2F1HvktgzBNo%2FHvI5xYp5QnoHhTtEEYneQw%3D%3D%3A20180401122822%2C18851042983%2C112.25.7.202%2C20180401122822%2CAHWS%2C1B4CEFC7EE6192335ED71DF86C50D75E%2C%2C0%2C1%2C-1%2C%2C2%2C2000007279%2C2%2C-3%2C2%2CEND&GuardEncType=2&servicetype=1&icpid=88888888&from=5&hms_devid=724
+http://111.20.33.93/TVOD/88888893/224/3221226196/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0105/20140105063514384.jpg",安徽卫视
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225691/index.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0105/20140105063514384.jpg",安徽卫视
+http://39.135.138.58:18890/PLTV/88888910/224/3221225691/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/d/file/2018/0613/small3d75528f7e72766bf831012a4e7a0096.jpg",北京卫视
 http://111.40.196.25/PLTV/88888888/224/3221225540/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/d/file/2018/0613/small3d75528f7e72766bf831012a4e7a0096.jpg",北京卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225673/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/d/file/2018/0613/small3d75528f7e72766bf831012a4e7a0096.jpg",北京卫视
 http://140.207.241.2:8080/live/program/live/bjwshd/4000000/mnf.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/d/file/2018/0613/small3d75528f7e72766bf831012a4e7a0096.jpg",北京卫视
-http://183.207.249.5:80/PLTV/4/224/3221225783/index.m3u8?UserName=18851042983&MAC=8C:6D:50:4C:91:52&OTTUserToken=18851042983-8C:6D:50:4C:91:52&accountinfo=yvxefADiHI1MXW5gaIZO5hiIlKSLiJtBXQdhumM1dH2IsIJmP1UxBAq03L3WxNlz%2BAhLv89U3HWKFogUjLcRuU%2BwWipdMTdABhAgmyZ6eCKSs6gHkshTVY%2FyrhsnAYOARtMpKvGbp6rFofb6WU4DKA%3D%3D%3A20180401124042%2C18851042983%2C112.25.7.203%2C20180401124042%2CG_QINGHAI%2C1B4CEFC7EE6192335ED71DF86C50D75E%2C%2C0%2C1%2C-1%2C%2C2%2C2000007279%2C2%2C-3%2C2%2CEND&GuardEncType=2&servicetype=1&icpid=88888888&from=5&hms_devid=724
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127112819830.jpg",兵团卫视
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226200/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127112819830.jpg",兵团卫视
-http://stream-shbu.bestvcdn.com:8080/live/program/live/btws/1300000/mnf.m3u8
+http://111.20.33.93/TVOD/88888893/224/3221226214/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127053017633.jpg",东方卫视
 http://111.40.196.30/PLTV/88888888/224/3221225509/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127053017633.jpg",东方卫视
 http://39.135.138.58:18890/PLTV/88888888/224/3221225659/index.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127053017633.jpg",东方卫视
-http://183.207.249.7:80/PLTV/4/224/3221227396/index.m3u8?UserName=18851042983&MAC=8C:6D:50:4C:91:52&OTTUserToken=18851042983-8C:6D:50:4C:91:52&accountinfo=yvxefADiHI1MXW5gaIZO5hiIlKSLiJtBXQdhumM1dH2IsIJmP1UxBAq03L3WxNlzfOIX59FPdAado7h9s5ZUS0%2BwWipdMTdABhAgmyZ6eCJfc3xl4peUxp6SPtEv191rq4z5xJUSPt7vbuG98peHgA%3D%3D%3A20180401122046%2C18851042983%2C112.25.7.202%2C20180401122046%2CG_DONGFANG-HQ%2C1B4CEFC7EE6192335ED71DF86C50D75E%2C%2C0%2C1%2C-1%2C%2C2%2C2000007279%2C2%2C-3%2C2%2CEND&GuardEncType=2&servicetype=1&icpid=88888888&from=5&hms_devid=744
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127053017633.jpg",东方卫视
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225489/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127053017633.jpg",东方卫视
@@ -174,21 +170,19 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225701/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127102115885.jpg",广西卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225731/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127102115885.jpg",广西卫视
-http://183.207.249.5:80/PLTV/4/224/3221225806/index.m3u8?UserName=18851042983&MAC=8C:6D:50:4C:91:52&OTTUserToken=18851042983-8C:6D:50:4C:91:52&accountinfo=yvxefADiHI1MXW5gaIZO5hiIlKSLiJtBXQdhumM1dH2IsIJmP1UxBAq03L3WxNlzA4vtSIDkGIgBiaqrfuKfc0%2BwWipdMTdABhAgmyZ6eCIQPP2eeGyS5ilmqdvDTPcoF%2FqPKRon1Cmyyd%2B0U6oF5w%3D%3D%3A20180401123038%2C18851042983%2C112.25.46.66%2C20180401123038%2CGXWS%2C1B4CEFC7EE6192335ED71DF86C50D75E%2C%2C0%2C1%2C-1%2C%2C2%2C2000007279%2C2%2C-3%2C2%2CEND&GuardEncType=2&servicetype=1&icpid=88888888&from=5&hms_devid=724
-#EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127094656144.jpg",贵州卫视
-http://183.207.249.5:80/PLTV/4/224/3221225787/index.m3u8?UserName=18851042983&MAC=8C:6D:50:4C:91:52&OTTUserToken=18851042983-8C:6D:50:4C:91:52&accountinfo=yvxefADiHI1MXW5gaIZO5hiIlKSLiJtBXQdhumM1dH2IsIJmP1UxBAq03L3WxNlz%2BAhLv89U3HWKFogUjLcRuU%2BwWipdMTdABhAgmyZ6eCL6vOeOBEZVgFYDquGG3sDpK42k81jojIY64S1u8AOhGg%3D%3D%3A20180401124015%2C18851042983%2C112.25.7.203%2C20180401124015%2CG_GUIZHOU%2C1B4CEFC7EE6192335ED71DF86C50D75E%2C%2C0%2C1%2C-1%2C%2C2%2C2000007279%2C2%2C-3%2C2%2CEND&GuardEncType=2&servicetype=1&icpid=88888888&from=5&hms_devid=724
+http://39.135.138.59:18890/PLTV/88888910/224/3221225731/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127094656144.jpg",贵州卫视
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225483/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/d/file/2019/0622/smalleaeb78d2c98830857f23f9da1ed623ee.jpg",海南卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225722/index.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/d/file/2019/0622/smalleaeb78d2c98830857f23f9da1ed623ee.jpg",海南卫视
-http://183.207.249.16:80/PLTV/4/224/3221225810/index.m3u8?UserName=18851042983&MAC=8C:6D:50:4C:91:52&OTTUserToken=18851042983-8C:6D:50:4C:91:52&accountinfo=yvxefADiHI1MXW5gaIZO5hiIlKSLiJtBXQdhumM1dH2IsIJmP1UxBAq03L3WxNlzA4vtSIDkGIgBiaqrfuKfc0%2BwWipdMTdABhAgmyZ6eCJ60IIgyqnlmw%2FtqpJXaK%2FQqTjVakPEBLwZI6QN06RVzg%3D%3D%3A20180401123146%2C18851042983%2C112.25.46.66%2C20180401123146%2CLYWS%2C1B4CEFC7EE6192335ED71DF86C50D75E%2C%2C0%2C1%2C-1%2C%2C2%2C2000007279%2C2%2C-3%2C2%2CEND&GuardEncType=2&servicetype=1&icpid=88888888&from=5&hms_devid=824
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127095100348.jpg",河北卫视
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225610/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127060905552.jpg",河南卫视
-http://183.207.249.15:80/PLTV/4/224/3221225815/index.m3u8?UserName=18851042983&MAC=8C:6D:50:4C:91:52&OTTUserToken=18851042983-8C:6D:50:4C:91:52&accountinfo=yvxefADiHI1MXW5gaIZO5hiIlKSLiJtBXQdhumM1dH2IsIJmP1UxBAq03L3WxNlzA4vtSIDkGIgBiaqrfuKfc0%2BwWipdMTdABhAgmyZ6eCLuGX7trFA1uyIOMxmVkKch8XtG26AoYxiNZoMBXkEVXw%3D%3D%3A20180401123527%2C18851042983%2C112.25.46.66%2C20180401123527%2CHENAN%2C1B4CEFC7EE6192335ED71DF86C50D75E%2C%2C0%2C1%2C-1%2C%2C2%2C2000007279%2C2%2C-3%2C2%2CEND&GuardEncType=2&servicetype=1&icpid=88888888&from=5&hms_devid=824
+http://39.134.66.110/PLTV/88888888/224/3221225988/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127060905552.jpg",河南卫视
 http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226749/index.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127060905552.jpg",河南卫视
+http://39.135.138.58:18890/PLTV/88888888/224/3221225611/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0105/20140105071801983.jpg",黑龙江卫视
 http://39.135.138.58:18890/PLTV/88888888/224/3221225690/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0105/20140105071801983.jpg",黑龙江卫视
@@ -196,7 +190,13 @@ http://140.207.241.2:8080/live/program/live/hljwshd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0105/20140105071801983.jpg",黑龙江卫视
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hljwshd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127070021782.jpg",湖北卫视
-http://183.207.249.16:80/PLTV/4/224/3221225877/index.m3u8?UserName=18851042983&MAC=8C:6D:50:4C:91:52&OTTUserToken=18851042983-8C:6D:50:4C:91:52&accountinfo=yvxefADiHI1MXW5gaIZO5hiIlKSLiJtBXQdhumM1dH2IsIJmP1UxBAq03L3WxNlzA4vtSIDkGIgBiaqrfuKfc0%2BwWipdMTdABhAgmyZ6eCJ%2B44n3nka6RKvo3i2rqUUb5BH59Yj%2FQnobTSTU3awWrw%3D%3D%3A20180401123822%2C18851042983%2C112.25.46.66%2C20180401123822%2CG_HUBEI%2C1B4CEFC7EE6192335ED71DF86C50D75E%2C%2C0%2C1%2C-1%2C%2C2%2C2000007279%2C2%2C-3%2C2%2CEND&GuardEncType=2&servicetype=1&icpid=88888888&from=5&hms_devid=824
+http://111.20.33.93/TVOD/88888893/224/3221226194/index.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127070021782.jpg",湖北卫视
+http://117.169.120.140:8080/live/hdhubeistv/.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127070021782.jpg",湖北卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225699/index.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127070021782.jpg",湖北卫视
+http://39.134.66.66/PLTV/88888888/224/3221225569/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0105/20140105054954388.jpg",湖南卫视
 http://111.40.196.28/PLTV/88888888/224/3221225519/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0105/20140105054954388.jpg",湖南卫视
@@ -206,7 +206,9 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225745/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127100134333.jpg",吉林卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225680/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127100134333.jpg",吉林卫视
-http://183.207.249.7:80/PLTV/4/224/3221225883/index.m3u8?UserName=18851042983&MAC=8C:6D:50:4C:91:52&OTTUserToken=18851042983-8C:6D:50:4C:91:52&accountinfo=yvxefADiHI1MXW5gaIZO5hiIlKSLiJtBXQdhumM1dH2IsIJmP1UxBAq03L3WxNlzA4vtSIDkGIgBiaqrfuKfc0%2BwWipdMTdABhAgmyZ6eCIHJx8mLzyyQOOmPNm0WR5Ef4nEGAloM%2F56ETMCRCvTQA%3D%3D%3A20180401123855%2C18851042983%2C112.25.46.66%2C20180401123855%2CG_JILIN%2C1B4CEFC7EE6192335ED71DF86C50D75E%2C%2C0%2C1%2C-1%2C%2C2%2C2000007279%2C2%2C-3%2C2%2CEND&GuardEncType=2&servicetype=1&icpid=88888888&from=5&hms_devid=744
+http://39.134.66.110/PLTV/88888888/224/3221225981/index.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127100134333.jpg",吉林卫视
+http://39.135.138.59:18890/PLTV/88888910/224/3221225680/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0105/20140105061518886.jpg",江苏卫视
 http://111.40.196.31/PLTV/88888888/224/3221225515/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0105/20140105061518886.jpg",江苏卫视
@@ -214,13 +216,13 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225743/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0105/20140105061518886.jpg",江苏卫视
 http://39.135.138.58:18890/PLTV/88888888/224/3221225702/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0105/20140105061518886.jpg",江苏卫视
-http://183.207.249.34:80/PLTV/4/224/3221227402/index.m3u8?UserName=18851042983&MAC=8C:6D:50:4C:91:52&OTTUserToken=18851042983-8C:6D:50:4C:91:52&accountinfo=yvxefADiHI1MXW5gaIZO5hiIlKSLiJtBXQdhumM1dH2IsIJmP1UxBAq03L3WxNlzfOIX59FPdAado7h9s5ZUS0%2BwWipdMTdABhAgmyZ6eCKKsykTisuszwEjI9aL4uWBdT8msbwc%2FhLALs%2BBuvnRyw%3D%3D%3A20180401122751%2C18851042983%2C112.25.7.202%2C20180401122751%2CG_JIANGSU-HQ%2C1B4CEFC7EE6192335ED71DF86C50D75E%2C%2C0%2C1%2C-1%2C%2C2%2C2000007279%2C2%2C-3%2C2%2CEND&GuardEncType=2&servicetype=1&icpid=88888888&from=5&hms_devid=4344
+http://39.134.65.208/PLTV/88888888/224/3221225503/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0105/20140105071533165.jpg",江西卫视
 http://111.40.196.30/PLTV/88888888/224/3221225560/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0105/20140105071533165.jpg",江西卫视
 http://39.135.138.58:18890/PLTV/88888888/224/3221225705/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0105/20140105071533165.jpg",江西卫视
-http://183.207.249.15:80/PLTV/4/224/3221225798/index.m3u8?UserName=18851042983&MAC=8C:6D:50:4C:91:52&OTTUserToken=18851042983-8C:6D:50:4C:91:52&accountinfo=yvxefADiHI1MXW5gaIZO5hiIlKSLiJtBXQdhumM1dH2IsIJmP1UxBAq03L3WxNlzA4vtSIDkGIgBiaqrfuKfc0%2BwWipdMTdABhAgmyZ6eCKyQ%2FGr1GIyAKGaZyk5cVSQZ58mJ1XrGNtvk0ShYHH%2FbQ%3D%3D%3A20180401123757%2C18851042983%2C112.25.46.66%2C20180401123757%2CJXWS%2C1B4CEFC7EE6192335ED71DF86C50D75E%2C%2C0%2C1%2C-1%2C%2C2%2C2000007279%2C2%2C-3%2C2%2CEND&GuardEncType=2&servicetype=1&icpid=88888888&from=5&hms_devid=824
+http://140.207.241.2:8080/live/program/live/jxwshd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127060016478.jpg",康巴卫视
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226207/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0105/20140105070406131.jpg",辽宁卫视
@@ -229,8 +231,6 @@ http://111.40.196.34/PLTV/88888888/224/3221225593/index.m3u8
 http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226731/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0105/20140105070406131.jpg",辽宁卫视
 http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226767/index.m3u8
-#EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0105/20140105070406131.jpg",辽宁卫视
-http://183.207.249.12:80/PLTV/4/224/3221225802/index.m3u8?UserName=18851042983&MAC=8C:6D:50:4C:91:52&OTTUserToken=18851042983-8C:6D:50:4C:91:52&accountinfo=yvxefADiHI1MXW5gaIZO5hiIlKSLiJtBXQdhumM1dH2IsIJmP1UxBAq03L3WxNlzfOIX59FPdAado7h9s5ZUS0%2BwWipdMTdABhAgmyZ6eCJbmeguUg7Pt87K%2Bri2DAREvp2QVC9nEaWIfYShfQrrPw%3D%3D%3A20180401122926%2C18851042983%2C112.25.7.202%2C20180401122926%2CLNWS%2C1B4CEFC7EE6192335ED71DF86C50D75E%2C%2C0%2C1%2C-1%2C%2C2%2C2000007279%2C2%2C-3%2C2%2CEND&GuardEncType=2&servicetype=1&icpid=88888888&from=5&hms_devid=784
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0105/20140105070406131.jpg",辽宁卫视
 http://shbu.live.bestvcdn.com.cn:8080/live/program/live/lnwshd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0105/20140105070406131.jpg",辽宁卫视
@@ -246,27 +246,35 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225667/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127111151358.jpg",宁夏卫视
 http://111.40.196.29/PLTV/88888888/224/3221225641/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127111151358.jpg",宁夏卫视
-http://183.207.249.5:80/PLTV/4/224/3221225842/index.m3u8?UserName=18851042983&MAC=8C:6D:50:4C:91:52&OTTUserToken=18851042983-8C:6D:50:4C:91:52&accountinfo=yvxefADiHI1MXW5gaIZO5hiIlKSLiJtBXQdhumM1dH2IsIJmP1UxBAq03L3WxNlz%2BAhLv89U3HWKFogUjLcRuU%2BwWipdMTdABhAgmyZ6eCJgcPIIRdNZQ47QTCqDPBmTUcroPfNCMp1vXpIcJ9%2FDWA%3D%3D%3A20180401124429%2C18851042983%2C112.25.7.203%2C20180401124429%2CG_NINGXIA%2C1B4CEFC7EE6192335ED71DF86C50D75E%2C%2C0%2C1%2C-1%2C%2C2%2C2000007279%2C2%2C-3%2C2%2CEND&GuardEncType=2&servicetype=1&icpid=88888888&from=5&hms_devid=724
-#EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127111151358.jpg",宁夏卫视
 http://www.nxtv.com.cn/m2o/channel/play.php?channel_id=6
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127102446619.jpg",青海卫视
-http://117.148.179.151/PLTV/88888888/224/3221231435/index.m3u8
+http://140.207.241.3:8080/live/program/live/qhws/1300000/d1.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127102446619.jpg",青海卫视
+http://39.135.138.58:18890/PLTV/88888888/224/3221225727/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127102446619.jpg",青海卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225727/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127103829275.jpg",山西卫视
 http://39.135.138.58:18890/PLTV/88888888/224/3221225730/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127103829275.jpg",山西卫视
-http://183.207.249.6:80/PLTV/4/224/3221225786/index.m3u8?UserName=18851042983&MAC=8C:6D:50:4C:91:52&OTTUserToken=18851042983-8C:6D:50:4C:91:52&accountinfo=yvxefADiHI1MXW5gaIZO5hiIlKSLiJtBXQdhumM1dH2IsIJmP1UxBAq03L3WxNlzA4vtSIDkGIgBiaqrfuKfc0%2BwWipdMTdABhAgmyZ6eCLvlzcJMhaTrhbMx7E7cqT%2FcHJ9B2BgVqAPd4e2KxDf1Q%3D%3D%3A20180401123954%2C18851042983%2C112.25.46.66%2C20180401123954%2CSXWS%2C1B4CEFC7EE6192335ED71DF86C50D75E%2C%2C0%2C1%2C-1%2C%2C2%2C2000007279%2C2%2C-3%2C2%2CEND&GuardEncType=2&servicetype=1&icpid=88888888&from=5&hms_devid=724
+http://39.134.115.163:8080/PLTV/88888910/224/3221225730/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.haoqiu365.com/uploadfile/2014/0506/20140506010445710.jpg",山东卫视
-http://117.148.179.137/PLTV/88888888/224/3221227909/index.m3u8
+http://39.134.115.163:8080/PLTV/88888910/224/3221225697/index.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.haoqiu365.com/uploadfile/2014/0506/20140506010445710.jpg",山东卫视
+http://111.20.33.93/TVOD/88888893/224/3221226209/index.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.haoqiu365.com/uploadfile/2014/0506/20140506010445710.jpg",山东卫视
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225738/index.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.haoqiu365.com/uploadfile/2014/0506/20140506010445710.jpg",山东卫视
+http://shbu.live.bestvcdn.com.cn:8080/live/program/live/sdwshd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127065349318.jpg",深圳卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225741/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127065349318.jpg",深圳卫视
-http://183.207.249.37:80/PLTV/4/224/3221227307/index.m3u8?UserName=18851042983&MAC=8C:6D:50:4C:91:52&OTTUserToken=18851042983-8C:6D:50:4C:91:52&accountinfo=yvxefADiHI1MXW5gaIZO5hiIlKSLiJtBXQdhumM1dH2IsIJmP1UxBAq03L3WxNlzfOIX59FPdAado7h9s5ZUS0%2BwWipdMTdABhAgmyZ6eCL1kdVtlk%2BdAabHX7wVbWIRBnzTAy4KU78w1E6NSKcurg%3D%3D%3A20180401122456%2C18851042983%2C112.25.7.202%2C20180401122456%2CG_SHENZHEN-HQ%2C1B4CEFC7EE6192335ED71DF86C50D75E%2C%2C0%2C1%2C-1%2C%2C2%2C2000007279%2C2%2C-3%2C2%2CEND&GuardEncType=2&servicetype=1&icpid=88888888&from=5&hms_devid=4364
+http://39.135.138.59:18890/PLTV/88888910/224/3221225664/index.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127065349318.jpg",深圳卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225700/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127055234325.jpg",四川卫视
 http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226728/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127055234325.jpg",四川卫视
-http://117.148.179.142/PLTV/88888888/224/3221231885/index.m3u8
+http://ep.b1791.com/php/sctv.php?id=scws
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127055234325.jpg",四川卫视
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225487/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0105/20140105065714879.jpg",天津卫视
@@ -274,11 +282,13 @@ http://111.40.196.32/PLTV/88888888/224/3221225597/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0105/20140105065714879.jpg",天津卫视
 http://hwottcdn.ln.chinamobile.com/PLTV/88888888/224/3221226742/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0105/20140105065714879.jpg",天津卫视
-http://183.207.249.12:80/PLTV/4/224/3221225808/index.m3u8?UserName=18851042983&MAC=8C:6D:50:4C:91:52&OTTUserToken=18851042983-8C:6D:50:4C:91:52&accountinfo=yvxefADiHI1MXW5gaIZO5hiIlKSLiJtBXQdhumM1dH2IsIJmP1UxBAq03L3WxNlzA4vtSIDkGIgBiaqrfuKfc0%2BwWipdMTdABhAgmyZ6eCKqwtc8R23%2F2sLHoAToXl3UnF0tTz0M2byvGulkWuh60g%3D%3D%3A20180401123718%2C18851042983%2C112.25.46.66%2C20180401123718%2CTJWS%2C1B4CEFC7EE6192335ED71DF86C50D75E%2C%2C0%2C1%2C-1%2C%2C2%2C2000007279%2C2%2C-3%2C2%2CEND&GuardEncType=2&servicetype=1&icpid=88888888&from=5&hms_devid=784
+http://39.134.115.163:8080/PLTV/88888910/224/3221225698/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0105/20140105065714879.jpg",天津卫视
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225485/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127111701420.jpg",西藏卫视
-http://183.207.249.15:80/PLTV/4/224/3221226376/index.m3u8?UserName=18851042983&MAC=8C:6D:50:4C:91:52&OTTUserToken=18851042983-8C:6D:50:4C:91:52&accountinfo=fyLe4gOIvMgfwqrEWnunpHmn9mrDriCbwWP4XseyvD6IsIJmP1UxBAq03L3WxNlz%2BAhLv89U3HWKFogUjLcRuU%2BwWipdMTdABhAgmyZ6eCI5lljSJyOmidoZ3llyLsoGkqdcWFBoJjO0y7sc1dF%2B8A%3D%3D%3A20180401124630%2C18851042983%2C112.25.7.203%2C20180401124630%2CG_XIZANG%2C65AE99A50B539A6BEB318A3ECAC9EF70%2C%2C0%2C1%2C-1%2C%2C2%2C2000007279%2C2%2C-3%2C2%2CEND&GuardEncType=2&servicetype=1&icpid=88888888&from=5&hms_devid=824
+http://39.135.138.59:18890/PLTV/88888910/224/3221225723/index.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127111701420.jpg",西藏卫视
+http://117.169.120.140:8080/live/xizangstv/.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127111701420.jpg",西藏卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225723/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127111944516.jpg",新疆卫视
@@ -296,15 +306,13 @@ http://111.40.196.29/PLTV/88888888/224/3221225644/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0105/20140105063047305.jpg",浙江卫视
 http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0105/20140105063047305.jpg",浙江卫视
-http://183.207.249.34:80/PLTV/4/224/3221227393/index.m3u8?UserName=18851042983&MAC=8C:6D:50:4C:91:52&OTTUserToken=18851042983-8C:6D:50:4C:91:52&accountinfo=yvxefADiHI1MXW5gaIZO5hiIlKSLiJtBXQdhumM1dH2IsIJmP1UxBAq03L3WxNlzfOIX59FPdAado7h9s5ZUS0%2BwWipdMTdABhAgmyZ6eCJ%2Fb%2BJscnIubeK8XGVHoOOSCX%2BQO3F9WBhfsy%2Ft%2B2PyqQ%3D%3D%3A20180401122600%2C18851042983%2C112.25.7.202%2C20180401122600%2CG_ZHEJIANG-HQ%2C1B4CEFC7EE6192335ED71DF86C50D75E%2C%2C0%2C1%2C-1%2C%2C2%2C2000007279%2C2%2C-3%2C2%2CEND&GuardEncType=2&servicetype=1&icpid=88888888&from=5&hms_devid=4344
-#EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0105/20140105063047305.jpg",浙江卫视
 http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0105/20140105063047305.jpg",浙江卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127094352591.jpg",重庆卫视
 http://111.40.196.31/PLTV/88888888/224/3221225514/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127094352591.jpg",重庆卫视
-http://183.207.249.5:80/PLTV/4/224/3221225812/index.m3u8?UserName=18851042983&MAC=8C:6D:50:4C:91:52&OTTUserToken=18851042983-8C:6D:50:4C:91:52&accountinfo=yvxefADiHI1MXW5gaIZO5hiIlKSLiJtBXQdhumM1dH2IsIJmP1UxBAq03L3WxNlzA4vtSIDkGIgBiaqrfuKfc0%2BwWipdMTdABhAgmyZ6eCIhiLjNRKOzMqvw%2F1GMpWNi%2FvUNiv5aXc%2FMBMV9VjuXRg%3D%3D%3A20180401123235%2C18851042983%2C112.25.46.66%2C20180401123235%2CG_CHONGQING%2C1B4CEFC7EE6192335ED71DF86C50D75E%2C%2C0%2C1%2C-1%2C%2C2%2C2000007279%2C2%2C-3%2C2%2CEND&GuardEncType=2&servicetype=1&icpid=88888888&from=5&hms_devid=724
+http://39.134.115.163:8080/PLTV/88888910/224/3221225692/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127094352591.jpg",重庆卫视
 http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225612/index.m3u8?fmt=ts2hls
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127094352591.jpg",重庆卫视
@@ -312,9 +320,11 @@ http://111.63.117.13:6060/030000001000/G_CHONGQING/G_CHONGQING.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0127/20140127094352591.jpg",重庆卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225734/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.tvyan.com/uploads/dianshi/sxtvs.jpg",陕西卫视
-http://39.135.138.58:18890/PLTV/88888888/224/3221225729/index.m3u8
+http://111.20.33.93/TVOD/88888893/224/3221226246/index.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.tvyan.com/uploads/dianshi/sxtvs.jpg",陕西卫视
 http://140.207.241.2:8080/live/program/live/sxws/1300000/mnf.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.tvyan.com/uploads/dianshi/sxtvs.jpg",陕西卫视
+http://39.134.115.163:8080/PLTV/88888910/224/3221225729/index.m3u8
 #EXTINF:-1 group-title="新闻频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0307/20140307105634657.jpg",CCTV-4
 http://39.135.138.58:18890/PLTV/88888888/224/3221225621/index.m3u8
 #EXTINF:-1 group-title="新闻频道" tvg-logo="http://www.66zhibo.net/uploadfile/2014/0307/20140307105634657.jpg",CCTV-4
@@ -347,19 +357,9 @@ http://117.169.120.138:8080/live/fhzixun/1.m3u8
 http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
 #EXTINF:-1 group-title="新闻频道" tvg-logo="http://www.cietv.com/img/fhzx.jpg",凤凰卫视资讯台
 http://117.169.120.138:8080/live/fhzixun/.m3u8
-#EXTINF:-1 group-title="电影娱乐" tvg-logo="http://tvax4.sinaimg.cn/large/006sgDP3gy1gukylkeya0j607i0ai74t02.jpg",喜剧联盟
-http://117.148.179.154/PLTV/88888888/224/3221231621/index.m3u8
-#EXTINF:-1 group-title="电影娱乐" tvg-logo="http://img.duoziwang.com/2018/17/05251620908854.jpg",成龙电影
-http://117.148.179.163/PLTV/88888888/224/3221231687/index.m3u8
-#EXTINF:-1 group-title="电影娱乐" tvg-logo="http://cdn.lsal.cn/z/0/3/1000md.jpg",周润发电影
-http://117.148.179.177/PLTV/88888888/224/3221231709/index.m3u8
 #EXTINF:-1 group-title="电影娱乐" tvg-logo="http://cdn.lsal.cn/z/0/5/1006md.jpg",刘德华电影2
 http://112.74.200.9:88/tv000000/m3u8.php?/migu/659315648
 #EXTINF:-1 group-title="电影娱乐" tvg-logo="http://pic.22520.cn/up/200810/1597062468980479.jpg",周星驰影院
 http://112.74.200.9:88/tv000000/m3u8.php?/migu/623338112
-#EXTINF:-1 group-title="电影娱乐" tvg-logo="http://img.duoziwang.com/2018/19/07111648911255.jpg",古天乐影院
-http://117.148.179.176/PLTV/88888888/224/3221231645/index.m3u8
-#EXTINF:-1 group-title="电影娱乐" tvg-logo="http://www.laodianying8.com/uploadfile/201203/18/186266213.jpg",怀旧老片
-http://117.148.179.146/PLTV/88888888/224/3221231513/index.m3u8
 #EXTINF:-1 group-title="电影娱乐" tvg-logo="http://img1.gamersky.com/image2012/09/20120905v_12/gamersky_04small_08.jpg",kk经典电影
 http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
