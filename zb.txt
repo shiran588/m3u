@@ -1,4 +1,5 @@
 🇨🇳｜央视频道,#genre#
+CCTV-1 综合,https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
 CCTV-1 综合,http://live.cooltv.top/tv/aishang.php?id=cctv1hd
 CCTV-1 综合,http://cctvwbndali.v.myalicdn.com/cctvwbnd/cctv1_2/index.m3u8
 CCTV-1 综合,http://a.xttv.top/xttv/27f43e697655f4d44c62d7f4d32fcctv.m3u8
@@ -64,6 +65,7 @@ CCTV-1 综合,http://39.135.138.58:18890/ysten-businessmobile/live/CCTV-1/1.m3u8
 CCTV-1 综合,https://jwcdnqx.hebyun.com.cn/live/cctvtest1/1500k/tzwj_video.m3u8
 CCTV-1 综合,http://39.135.138.58:18890/ysten-businessmobile/live/hdcctv01/1.m3u8
 CCTV-1 综合,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225501/2/index.m3u8?fmt=ts2hls
+CCTV-2 财经,https://live.v1.mk/api/bestv.php?id=cctv2hd8m/8000000
 CCTV-2 财经,http://live.cooltv.top/tv/aishang.php?id=cctv2hd
 CCTV-2 财经,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel2/index.m3u8
 CCTV-2 财经,http://cm.wshls.homecdn.com/live/11ecc.m3u8
@@ -109,6 +111,7 @@ CCTV-2 财经,http://111.20.35.103:6610/yinhe/2/ch00000090990000001332/index.m3u
 CCTV-2 财经,http://39.135.138.58:18890/ysten-businessmobile/live/CCTV-2/1.m3u8
 CCTV-2 财经,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225500/2/index.m3u8?fmt=ts2hls
 CCTV-2 财经,http://39.135.138.58:18890/ysten-businessmobile/live/HD-8000k-1080P-cctv2/1.m3u8
+CCTV-3 综艺,https://live.v1.mk/api/bestv.php?id=cctv38m/8000000
 CCTV-3 综艺,http://live.cooltv.top/tv/aishang.php?id=cctv3hd
 CCTV-3 综艺,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel3/index.m3u8
 CCTV-3 综艺,http://39.135.138.58:18890/PLTV/88888888/224/3221225634/index.m3u8
@@ -135,6 +138,7 @@ CCTV-3 综艺,http://39.135.138.58:18890/PLTV/88888888/224/3221225647/index.m3u8
 CCTV-3 综艺,http://111.20.35.103:6610/yinhe/2/ch00000090990000001598/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 CCTV-3 综艺,http://39.135.138.58:18890/ysten-businessmobile/live/CCTV-3/1.m3u8
 CCTV-3 综艺,http://39.135.138.58:18890/ysten-businessmobile/live/HD-8000k-1080P-cctv3/1.m3u8
+CCTV-4 中文国际,https://live.v1.mk/api/bestv.php?id=cctv4hd8m/8000000
 CCTV-4 中文国际,http://live.cooltv.top/tv/aishang.php?id=cctv4hd
 CCTV-4 中文国际,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel4/index.m3u8
 CCTV-4 中文国际,http://39.135.138.58:18890/PLTV/88888888/224/3221225621/index.m3u8
@@ -163,6 +167,7 @@ CCTV-4 中文国际,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888
 CCTV-4 中文国际,http://111.20.35.103:6610/yinhe/2/ch00000090990000001333/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 CCTV-4 中文国际,http://111.20.35.103:6610/yinhe/2/ch00000090990000001290/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 CCTV-4 中文国际,http://39.135.138.58:18890/ysten-businessmobile/live/CCTV-4/1.m3u8
+CCTV-5 体育,https://live.v1.mk/api/bestv.php?id=cctv58m/8000000
 CCTV-5 体育,http://live.cooltv.top/tv/aishang.php?id=cctv5hd
 CCTV-5 体育,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel5/index.m3u8
 CCTV-5 体育,http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
@@ -206,6 +211,7 @@ CCTV-5 体育,http://39.135.138.58:18890/PLTV/88888888/224/3221225751/index.m3u8
 CCTV-5 体育,http://39.135.138.58:18890/PLTV/88888888/224/3221225754/index.m3u8
 CCTV-5 体育,http://39.135.138.58:18890/ysten-businessmobile/live/CCTV-5/1.m3u8
 CCTV-5 体育,http://39.135.138.58:18890/ysten-businessmobile/live/HD-8000k-1080P-cctv5/1.m3u8
+CCTV-5+ 体育赛事,https://live.v1.mk/api/bestv.php?id=cctv5phd8m/8000000
 CCTV-5+ 体育赛事,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel13/index.m3u8
 CCTV-5+ 体育赛事,http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
 CCTV-5+ 体育赛事,http://39.135.138.59:18890/PLTV/88888910/224/3221225649/index.m3u8
@@ -231,6 +237,7 @@ CCTV-5+ 体育赛事,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/8888888
 CCTV-5+ 体育赛事,http://39.135.138.58:18890/ysten-businessmobile/live/hdcctv05plus/1.m3u8
 CCTV-5+ 体育赛事,http://39.135.138.58:18890/ysten-businessmobile/live/HD-8000k-1080P-cctv05plus/1.m3u8
 CCTV-5+ 体育赛事,http://123.6.9.146/live/jz-cctv-5-plus/live.m3u8
+CCTV-6 电影,https://live.v1.mk/api/bestv.php?id=cctv6hd8m/8000000
 CCTV-6 电影,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel6/index.m3u8
 CCTV-6 电影,http://39.134.115.163:8080/PLTV/88888910/224/3221225650/index.m3u8
 CCTV-6 电影,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225650/index.m3u8
@@ -261,6 +268,7 @@ CCTV-6 电影,http://111.20.35.103:6610/yinhe/2/ch00000090990000001859/index.m3u
 CCTV-6 电影,http://111.20.35.103:6610/yinhe/2/ch00000090990000001275/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 CCTV-6 电影,http://39.135.138.58:18890/ysten-businessmobile/live/CCTV-6/1.m3u8
 CCTV-6 电影,http://39.135.138.58:18890/ysten-businessmobile/live/HD-8000k-1080P-cctv6/1.m3u8
+CCTV-7 国防军事,https://live.v1.mk/api/bestv.php?id=cctv7hd8m/8000000
 CCTV-7 国防军事,http://live.cooltv.top/tv/aishang.php?id=cctv7hd
 CCTV-7 国防军事,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel7/index.m3u8
 CCTV-7 国防军事,http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
@@ -287,6 +295,7 @@ CCTV-7 国防军事,http://111.20.35.103:6610/yinhe/2/ch00000090990000001291/ind
 CCTV-7 国防军事,http://39.135.138.58:18890/ysten-businessmobile/live/CCTV-7/1.m3u8
 CCTV-7 国防军事,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225499/2/index.m3u8?fmt=ts2hls
 CCTV-7 国防军事,http://39.135.138.58:18890/ysten-businessmobile/live/HD-8000k-1080P-cctv7/1.m3u8
+CCTV-8 电视剧,https://live.v1.mk/api/bestv.php?id=cctv8hd8m/8000000
 CCTV-8 电视剧,http://live.cooltv.top/tv/aishang.php?id=cctv8hd
 CCTV-8 电视剧,http://39.135.138.58:18890/PLTV/88888888/224/3221225635/index.m3u8
 CCTV-8 电视剧,http://39.134.115.163:8080/PLTV/88888910/224/3221225635/index.m3u8
@@ -317,6 +326,7 @@ CCTV-8 电视剧,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/22
 CCTV-8 电视剧,http://111.20.35.103:6610/yinhe/2/ch00000090990000001869/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 CCTV-8 电视剧,http://39.135.138.58:18890/ysten-businessmobile/live/CCTV-8/1.m3u8
 CCTV-8 电视剧,http://39.135.138.58:18890/ysten-businessmobile/live/HD-8000k-1080P-cctv8/1.m3u8
+CCTV-9 纪录,https://live.v1.mk/api/bestv.php?id=cctv9hd8m/8000000
 CCTV-9 纪录,http://live.cooltv.top/tv/aishang.php?id=cctv9hd
 CCTV-9 纪录,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel9/index.m3u8
 CCTV-9 纪录,http://39.134.115.163:8080/PLTV/88888910/224/3221225626/index.m3u8
@@ -353,6 +363,7 @@ CCTV-9 纪录,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3
 CCTV-9 纪录,http://39.135.138.58:18890/PLTV/88888888/224/3221226262/index.m3u8
 CCTV-9 纪录,http://39.135.138.58:18890/ysten-businessmobile/live/cctv-news/1.m3u8
 CCTV-9 纪录,http://39.135.138.58:18890/ysten-businessmobile/live/HD-8000k-1080P-cctv9/1.m3u8
+CCTV-10 科教,https://live.v1.mk/api/bestv.php?id=cctv10hd8m/8000000
 CCTV-10 科教,http://live.cooltv.top/tv/aishang.php?id=cctv10hd
 CCTV-10 科教,http://39.134.115.163:8080/PLTV/88888910/224/3221225627/index.m3u8
 CCTV-10 科教,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225496/index.m3u8?fmt=ts2hls
@@ -385,6 +396,7 @@ CCTV-10 科教,http://111.20.35.103:6610/yinhe/2/ch00000090990000001288/index.m3
 CCTV-10 科教,http://39.135.138.58:18890/ysten-businessmobile/live/CCTV-10/1.m3u8
 CCTV-10 科教,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225496/2/index.m3u8?fmt=ts2hls
 CCTV-10 科教,http://39.135.138.58:18890/ysten-businessmobile/live/HD-8000k-1080P-cctv10/1.m3u8
+CCTV-11 戏曲,https://live.v1.mk/api/bestv.php?id=cctv11hd8m/8000000
 CCTV-11 戏曲,http://live.cooltv.top/tv/aishang.php?id=cctv11hd
 CCTV-11 戏曲,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel41/index.m3u8
 CCTV-11 戏曲,http://39.134.115.163:8080/PLTV/88888910/224/3221225628/index.m3u8
@@ -411,6 +423,7 @@ CCTV-11 戏曲,http://hbzx.chinashadt.com:2036/zhibo/stream:cctv11.stream_360p/p
 CCTV-11 戏曲,http://39.135.134.67/PLTV/88888888/224/3221225517/1.m3u8
 CCTV-11 戏曲,http://111.20.35.103:6610/yinhe/2/ch00000090990000001327/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 CCTV-11 戏曲,http://39.135.138.58:18890/ysten-businessmobile/live/CCTV-11/1.m3u8
+CCTV-12 社会与法,https://live.v1.mk/api/bestv.php?id=cctv12hd8m/8000000
 CCTV-12 社会与法,http://live.cooltv.top/tv/aishang.php?id=cctv12hd
 CCTV-12 社会与法,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel11/index.m3u8
 CCTV-12 社会与法,http://39.134.115.163:8080/PLTV/88888910/224/3221225629/index.m3u8
@@ -442,6 +455,7 @@ CCTV-12 社会与法,http://111.20.35.103:6610/yinhe/2/ch00000090990000001289/in
 CCTV-12 社会与法,http://39.135.138.58:18890/ysten-businessmobile/live/CCTV-12/1.m3u8
 CCTV-12 社会与法,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225495/2/index.m3u8?fmt=ts2hls
 CCTV-12 社会与法,http://39.135.138.58:18890/ysten-businessmobile/live/HD-8000k-1080P-cctv12/1.m3u8
+CCTV-13 新闻,https://live.v1.mk/api/bestv.php?id=cctv13xwhd8m/8000000
 CCTV-13 新闻,http://live.cooltv.top/tv/aishang.php?id=cctv13hd
 CCTV-13 新闻,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel39/index.m3u8
 CCTV-13 新闻,http://39.135.138.58:18890/PLTV/88888888/224/3221225638/index.m3u8
@@ -476,6 +490,7 @@ CCTV-13 新闻,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/
 CCTV-13 新闻,http://111.20.35.103:6610/yinhe/2/ch00000090990000001328/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 CCTV-13 新闻,http://39.135.138.58:18890/ysten-businessmobile/live/CCTV-13/1.m3u8
 CCTV-13 新闻,https://qsxw.gov.cn/rtmp_export/video44.m3u8
+CCTV-14 少儿,https://live.v1.mk/api/bestv.php?id=cctvsehd8m/8000000
 CCTV-14 少儿,http://live.cooltv.top/tv/aishang.php?id=cctv14hd
 CCTV-14 少儿,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel12/index.m3u8
 CCTV-14 少儿,http://59.51.68.40:1936/live/cctv14/playlist.m3u8
@@ -509,6 +524,7 @@ CCTV-14 少儿,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/
 CCTV-14 少儿,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225494/2/index.m3u8?fmt=ts2hls
 CCTV-14 少儿,http://39.135.138.58:18890/ysten-businessmobile/live/CCTV-14/1.m3u8
 CCTV-14 少儿,http://39.135.138.58:18890/ysten-businessmobile/live/HD-8000k-1080P-cctv14/1.m3u8
+CCTV-15 音乐,https://live.v1.mk/api/bestv.php?id=cctv15hd8m/8000000
 CCTV-15 音乐,http://live.cooltv.top/tv/aishang.php?id=cctv15hd
 CCTV-15 音乐,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel40/index.m3u8
 CCTV-15 音乐,http://39.134.115.163:8080/PLTV/88888910/224/3221225641/index.m3u8
@@ -534,6 +550,7 @@ CCTV-15 音乐,http://39.135.134.67/PLTV/88888888/224/3221225513/1.m3u8
 CCTV-15 音乐,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225785/1.m3u8
 CCTV-15 音乐,http://111.20.35.103:6610/yinhe/2/ch00000090990000001020/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 CCTV-15 音乐,http://39.135.138.58:18890/ysten-businessmobile/live/CCTV-15/1.m3u8
+CCTV-16 奥林匹克,https://live.v1.mk/api/bestv.php?id=cctv16hd8m/8000000
 CCTV-16 奥林匹克,http://live.cooltv.top/tv/aishang.php?id=cctv16hd
 CCTV-16 奥林匹克,http://182.151.211.171:808/hls/18/index.m3u8
 CCTV-16 奥林匹克,http://39.135.138.60:18890/TVOD/88888910/224/3221226233/index.m3u8
@@ -556,6 +573,7 @@ CCTV-16 奥林匹克,http://111.20.35.103:6610/yinhe/2/ch00000090990000002395/in
 CCTV-16 奥林匹克,http://39.135.138.58:18890/ysten-businessmobile/live/HD-4000k-1080P-cctv16/1.m3u8
 CCTV-16 奥林匹克,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221226232/2/index.m3u8?fmt=ts2hls
 CCTV-16 奥林匹克,http://39.135.138.58:18890/ysten-businessmobile/live/HD-8000k-1080P-cctv16/1.m3u8
+CCTV-17 农业农村,https://live.v1.mk/api/bestv.php?id=cctv17hd8m/8000000
 CCTV-17 农业农村,http://live.cooltv.top/tv/aishang.php?id=cctv17hd
 CCTV-17 农业农村,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel90/index.m3u8
 CCTV-17 农业农村,http://59.51.68.40:1936/live/cctv7/playlist.m3u8
@@ -586,6 +604,7 @@ CCTV-17 农业农村,http://39.135.138.58:18890/ysten-businessmobile/live/HD-400
 CCTV-17 农业农村,http://39.135.138.58:18890/ysten-businessmobile/live/HD-8000k-1080P-cctv17/1.m3u8
 
 🇨🇳｜卫视频道,#genre#
+辽宁卫视,https://live.v1.mk/api/bestv.php?id=lnwshd8m/8000000
 辽宁卫视,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel32/index.m3u8
 辽宁卫视,http://httplive.slave.bfgd.com.cn:14311/playurl?playtype=live&protocol=http&accesstoken=R5F2408FEU3198804BK78052214IE73560DFP2BF4M340CE68V0Z339CBW1626D4D261E46FEA&playtoken=31608RMZHGPUCXX10&programid=4200000058
 辽宁卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225735/index.m3u8
@@ -616,6 +635,7 @@ CCTV-17 农业农村,http://39.135.138.58:18890/ysten-businessmobile/live/HD-800
 辽宁卫视,http://39.135.134.67/PLTV/88888888/224/3221225944/1.m3u8
 辽宁卫视,http://111.20.35.103:6610/yinhe/2/ch00000090990000001043/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 辽宁卫视,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225547/2/index.m3u8?fmt=ts2hls
+安徽卫视,https://live.v1.mk/api/bestv.php?id=ahwshd8m/8000000
 安徽卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225691/index.m3u8
 安徽卫视,http://39.135.138.58:18890/PLTV/88888910/224/3221225691/index.m3u8
 安徽卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225737/index.m3u8
@@ -646,6 +666,7 @@ CCTV-17 农业农村,http://39.135.138.58:18890/ysten-businessmobile/live/HD-800
 安徽卫视,http://111.20.35.103:6610/yinhe/2/ch00000090990000001283/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 安徽卫视,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225541/2/index.m3u8?fmt=ts2hls
 安徽卫视,http://123.6.9.146/live/jz-anhuiweishi-gq/live.m3u8
+北京卫视,https://live.v1.mk/api/bestv.php?id=bjwshd8m/8000000
 北京卫视,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel24/index.m3u8
 北京卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225673/index.m3u8
 北京卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225674/index.m3u8
@@ -693,6 +714,7 @@ CCTV-17 农业农村,http://39.135.138.58:18890/ysten-businessmobile/live/HD-800
 兵团卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221226200/index.m3u8
 兵团卫视,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225530/2/index.m3u8?fmt=ts2hls
 兵团卫视,http://39.135.138.58:18890/ysten-businessmobile/live/SD-4000k-576P-bingtuanstv/1.m3u8
+东方卫视,https://live.v1.mk/api/bestv.php?id=dfwshd8m/8000000
 东方卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225659/index.m3u8
 东方卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225489/index.m3u8?fmt=ts2hls
 东方卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8
@@ -724,6 +746,7 @@ CCTV-17 农业农村,http://39.135.138.58:18890/ysten-businessmobile/live/HD-800
 东方卫视,http://39.135.138.58:18890/ysten-businessmobile/live/hddongfangstv/1.m3u8
 东方卫视,http://39.135.138.58:18890/ysten-businessmobile/live/dongfangstv/1.m3u8
 东方卫视,http://39.135.138.58:18890/ysten-businessmobile/live/HD-8000k-1080P-dongfangstv/1.m3u8
+东南卫视,https://live.v1.mk/api/bestv.php?id=dnwshd8m/8000000
 东南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8
 东南卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225657/index.m3u8
 东南卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225657/index.m3u8
@@ -764,6 +787,7 @@ CCTV-17 农业农村,http://39.135.138.58:18890/ysten-businessmobile/live/HD-800
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv1.m3u8
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8
 凤凰资讯,https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
+甘肃卫视,https://live.v1.mk/api/bestv.php?id=gswshd8m/8000000
 甘肃卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225724/index.m3u8
 甘肃卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225724/index.m3u8
 甘肃卫视,http://39.134.115.163:8080/TVOD/88888910/224/3221225724/index.m3u8
@@ -771,6 +795,7 @@ CCTV-17 农业农村,http://39.135.138.58:18890/ysten-businessmobile/live/HD-800
 甘肃卫视,http://39.184.224.99:9080/newlive/live/hls/42/live.m3u8
 甘肃卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225724/index.m3u8
 甘肃卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225724/index.m3u8
+广东卫视,https://live.v1.mk/api/bestv.php?id=gdwshd8m/8000000
 广东卫视,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel16/index.m3u8
 广东卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225701/index.m3u8
 广东卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225701/index.m3u8
@@ -804,6 +829,7 @@ CCTV-17 农业农村,http://39.135.138.58:18890/ysten-businessmobile/live/HD-800
 广东卫视,http://39.135.134.67/PLTV/88888888/224/3221225962/1.m3u8
 广东卫视,http://111.20.35.103:6610/yinhe/2/ch00000090990000001058/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 广东卫视,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225558/2/index.m3u8?fmt=ts2hls
+广西卫视,https://live.v1.mk/api/bestv.php?id=gxwshd8m/8000000
 广西卫视,http://121.51.249.6/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel59/index.m3u8
 广西卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221226211/index.m3u8?fmt=ts2hls
 广西卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226211/index.m3u8?fmt=ts2hls
@@ -818,6 +844,7 @@ CCTV-17 农业农村,http://39.135.138.58:18890/ysten-businessmobile/live/HD-800
 广西卫视,http://111.20.35.103:6610/yinhe/2/ch00000090990000001054/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 广西卫视,http://39.135.138.58:18890/ysten-businessmobile/live/guangxistv/1.m3u8
 广西卫视,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225551/2/index.m3u8?fmt=ts2hls
+贵州卫视,https://live.v1.mk/api/bestv.php?id=gzwshd8m/8000000
 贵州卫视,http://121.51.249.6/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel30/index.m3u8
 贵州卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225728/index.m3u8
 贵州卫视,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240318_1/playlist.m3u8?CONTENTID=00000110240318_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
@@ -831,6 +858,7 @@ CCTV-17 农业农村,http://39.135.138.58:18890/ysten-businessmobile/live/HD-800
 贵州卫视,http://111.20.35.103:6610/yinhe/2/ch00000090990000001048/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 贵州卫视,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225537/2/index.m3u8?fmt=ts2hls
 贵州卫视,http://39.135.138.58:18890/ysten-businessmobile/live/guizhoustv/1.m3u8
+海南卫视,https://live.v1.mk/api/bestv.php?id=hainanwshd8m/8000000
 海南卫视,http://livelyws.chinamcache.com/lyws/zb01.m3u8
 海南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225722/index.m3u8
 海南卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221226212/index.m3u8?fmt=ts2hls
@@ -843,6 +871,7 @@ CCTV-17 农业农村,http://39.135.138.58:18890/ysten-businessmobile/live/HD-800
 海南卫视,http://111.20.35.103:6610/yinhe/2/ch00000090990000001055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 海南卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225769/1.m3u8
 海南卫视,http://39.135.138.58:18890/ysten-businessmobile/live/lvyoustv/1.m3u8
+河北卫视,https://live.v1.mk/api/bestv.php?id=hbwshd8m/8000000
 河北卫视,http://121.51.249.6/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel79/index.m3u8
 河北卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225732/index.m3u8
 河北卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225732/index.m3u8
@@ -864,6 +893,7 @@ CCTV-17 农业农村,http://39.135.138.58:18890/ysten-businessmobile/live/HD-800
 河北卫视,http://39.135.138.58:18890/ysten-businessmobile/live/hebeistv/1.m3u8
 河北卫视,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225544/2/index.m3u8?fmt=ts2hls
 河北卫视,http://hbpx.chinashadt.com:2036/live/px4.stream/playlist.m3u8
+河南卫视,https://live.v1.mk/api/bestv.php?id=hnwshd8m/8000000
 河南卫视,http://121.51.249.6/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel78/index.m3u8
 河南卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225611/index.m3u8?fmt=ts2hls
 河南卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225611/index.m3u8?fmt=ts2hls
@@ -879,6 +909,7 @@ CCTV-17 农业农村,http://39.135.138.58:18890/ysten-businessmobile/live/HD-800
 河南卫视,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225545/2/index.m3u8?fmt=ts2hls
 河南卫视,http://39.135.138.58:18890/ysten-businessmobile/live/henanstv/1.m3u8
 河南卫视,http://123.6.9.146/live/jz-hnweishi/live.m3u8
+黑龙江卫视,https://live.v1.mk/api/bestv.php?id=hljwshd8m/8000000
 黑龙江卫视,http://121.51.249.6/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel27/index.m3u8
 黑龙江卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225736/index.m3u8
 黑龙江卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225690/index.m3u8
@@ -908,6 +939,7 @@ CCTV-17 农业农村,http://39.135.138.58:18890/ysten-businessmobile/live/HD-800
 黑龙江卫视,http://39.135.138.58:18890/ysten-businessmobile/live/HD-8000k-1080P-heilongjiangstv/1.m3u8
 黑龙江卫视,http://39.135.134.67/PLTV/88888888/224/3221226006/1.m3u8
 黑龙江卫视,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225542/2/index.m3u8?fmt=ts2hls
+湖北卫视,https://live.v1.mk/api/bestv.php?id=hubeiws8m/8000000
 湖北卫视,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel21/index.m3u8
 湖北卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225699/index.m3u8
 湖北卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225740/index.m3u8
@@ -937,6 +969,7 @@ CCTV-17 农业农村,http://39.135.138.58:18890/ysten-businessmobile/live/HD-800
 湖北卫视,http://39.135.134.67/PLTV/88888888/224/3221226015/1.m3u8
 湖北卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225760/1.m3u8
 湖北卫视,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225550/2/index.m3u8?fmt=ts2hls
+湖南卫视,https://live.v1.mk/api/bestv.php?id=hunanwshd8m/8000000
 湖南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225745/index.m3u8
 湖南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225704/index.m3u8
 湖南卫视,http://39.135.138.60:18890/PLTV/88888910/224/3221225745/index.m3u8
@@ -969,6 +1002,7 @@ CCTV-17 农业农村,http://39.135.138.58:18890/ysten-businessmobile/live/HD-800
 湖南卫视,http://59.51.68.40:1936/live/hnws/playlist.m3u8
 湖南卫视,http://hbpx.chinashadt.com:2036/live/px5.stream/playlist.m3u8
 湖南卫视,http://123.6.9.146/live/jz-hunanweishi-gq/live.m3u8
+吉林卫视,https://live.v1.mk/api/bestv.php?id=jlwshd8m/8000000
 吉林卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225680/index.m3u8
 吉林卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225680/index.m3u8
 吉林卫视,http://39.134.115.163:8080/TVOD/88888910/224/3221225680/index.m3u8
@@ -983,6 +1017,7 @@ CCTV-17 农业农村,http://39.135.138.58:18890/ysten-businessmobile/live/HD-800
 吉林卫视,http://111.20.35.103:6610/yinhe/2/ch00000090990000001049/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 吉林卫视,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225553/2/index.m3u8?fmt=ts2hls
 吉林卫视,http://39.135.138.58:18890/ysten-businessmobile/live/jilinstv/1.m3u8
+江苏卫视,https://live.v1.mk/api/bestv.php?id=jswshd8m/8000000
 江苏卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225743/index.m3u8
 江苏卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225702/index.m3u8
 江苏卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225702/index.m3u8
@@ -1012,6 +1047,7 @@ CCTV-17 农业农村,http://39.135.138.58:18890/ysten-businessmobile/live/HD-800
 江苏卫视,http://stream2.0515yc.cn/video1/playlist.m3u8
 江苏卫视,http://59.51.68.40:1936/live/jsws/playlist.m3u8
 江苏卫视,http://123.6.9.146/live/jz-jiangsuweishi-gq/live.m3u8
+江西卫视,https://live.v1.mk/api/bestv.php?id=jxws8m/8000000
 江西卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8
 江西卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225746/index.m3u8
 江西卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225705/index.m3u8
@@ -1098,6 +1134,7 @@ CCTV-17 农业农村,http://39.135.138.58:18890/ysten-businessmobile/live/HD-800
 青海卫视,http://111.20.35.103:6610/yinhe/2/ch00000090990000001033/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 青海卫视,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225546/2/index.m3u8?fmt=ts2hls
 青海卫视,http://39.135.138.58:18890/ysten-businessmobile/live/qinghaistv/1.m3u8
+山东卫视,https://live.v1.mk/api/bestv.php?id=sdws8m/8000000
 山东卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225738/index.m3u8
 山东卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225697/index.m3u8
 山东卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225738/index.m3u8
@@ -1159,6 +1196,7 @@ CCTV-17 农业农村,http://39.135.138.58:18890/ysten-businessmobile/live/HD-800
 陕西卫视,http://111.20.35.103:6610/yinhe/2/ch00000090990000001062/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 陕西卫视,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225531/2/index.m3u8?fmt=ts2hls
 陕西卫视,http://39.135.138.58:18890/ysten-businessmobile/live/shanxi1stv/1.m3u8
+深圳卫视,https://live.v1.mk/api/bestv.php?id=szwshd8m/8000000
 深圳卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225741/index.m3u8
 深圳卫视,http://39.135.138.59:18890/PLTV/88888910/224/3221225664/index.m3u8
 深圳卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225700/index.m3u8
@@ -1188,6 +1226,7 @@ CCTV-17 农业农村,http://39.135.138.58:18890/ysten-businessmobile/live/HD-800
 深圳卫视,http://39.135.134.67/PLTV/88888888/224/3221225997/1.m3u8
 深圳卫视,http://111.20.35.103:6610/yinhe/2/ch00000090990000001060/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 深圳卫视,http://123.6.9.146/live/jz-shenzhenweishi/live.m3u8
+四川卫视,https://live.v1.mk/api/bestv.php?id=scwshd/8000000
 四川卫视,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel31/index.m3u8
 四川卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225487/index.m3u8?fmt=ts2hls
 四川卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225733/index.m3u8
@@ -1205,6 +1244,7 @@ CCTV-17 农业农村,http://39.135.138.58:18890/ysten-businessmobile/live/HD-800
 四川卫视,http://111.20.35.103:6610/yinhe/2/ch00000090990000001036/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 四川卫视,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225532/2/index.m3u8?fmt=ts2hls
 四川卫视,http://39.135.138.58:18890/ysten-businessmobile/live/sichuanstv/1.m3u8
+天津卫视,https://live.v1.mk/api/bestv.php?id=tjwshd8m/8000000
 天津卫视,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel28/index.m3u8
 天津卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225485/index.m3u8?fmt=ts2hls
 天津卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225739/index.m3u8
@@ -1269,6 +1309,7 @@ CCTV-17 农业农村,http://39.135.138.58:18890/ysten-businessmobile/live/HD-800
 延边卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221226201/index.m3u8
 延边卫视,http://39.135.138.58:18890/ysten-businessmobile/live/SD-4000k-576P-yanbianstv/1.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
+云南卫视,https://live.v1.mk/api/bestv.php?id=ynwshd8m/8000000
 云南卫视,http://tvlive.ynradio.com/live/yunnanweishi/chunks.m3u8
 云南卫视,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel61/index.m3u8
 云南卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225664/index.m3u8
@@ -1280,6 +1321,7 @@ CCTV-17 农业农村,http://39.135.138.58:18890/ysten-businessmobile/live/HD-800
 云南卫视,http://111.20.35.103:6610/yinhe/2/ch00000090990000001046/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 云南卫视,http://39.134.115.191:8080/ysten.jx.chinamobile.com/PLTV/88888888/224/3221225538/2/index.m3u8?fmt=ts2hls
 云南卫视,http://39.135.138.58:18890/ysten-businessmobile/live/yunnanstv/1.m3u8
+浙江卫视,https://live.v1.mk/api/bestv.php?id=zjwshd8m/8000000
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 浙江卫视,http://121.51.249.6/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel19/index.m3u8
@@ -1326,6 +1368,7 @@ CCTV-17 农业农村,http://39.135.138.58:18890/ysten-businessmobile/live/HD-800
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/540p.m3u8
 浙江卫视,http://123.6.9.146/live/jz-zhejiangweishi/live.m3u8
 浙江卫视,http://hnhs.chinashadt.com:1936/hnhs/tv4.stream/playlist.m3u8
+重庆卫视,https://live.v1.mk/api/bestv.php?id=cqws8m/8000000
 重庆卫视,http://121.51.249.6/4309-tx.otvstream.otvcloud.com/otv/skcc/live/channel56/index.m3u8
 重庆卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225692/index.m3u8
 重庆卫视,http://39.134.115.163:8080/PLTV/88888910/224/3221225734/index.m3u8
