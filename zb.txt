@@ -93,7 +93,6 @@ CCTV-17 农业农村,http://39.135.134.67/PLTV/88888888/224/3221225708/1.m3u8
 
 🇨🇳｜卫视频道,#genre#
 辽宁卫视,https://live.v1.mk/api/bestv.php?id=lnwshd8m/8000000
-辽宁卫视,https://live.v1.mk/api/ghyx.php?id=LiaoNingHD_6000
 辽宁卫视,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240255_1/playlist.m3u8?CONTENTID=00000110240255_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 辽宁卫视,http://39.135.134.67/PLTV/88888888/224/3221225499/1.m3u8
 辽宁卫视,http://111.20.35.103:6610/yinhe/2/ch00000090990000001043/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
@@ -104,7 +103,6 @@ CCTV-17 农业农村,http://39.135.134.67/PLTV/88888888/224/3221225708/1.m3u8
 安徽卫视,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240256_1/playlist.m3u8?CONTENTID=00000110240256_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 安徽卫视,http://39.134.115.163:8080/TVOD/88888910/224/3221225691/index.m3u8
 安徽卫视,http://221.2.36.34:8888/newlive/live/hls/25/live.m3u8
-安徽卫视,https://live.v1.mk/api/ghyx.php?id=AnHuiHD_6000
 安徽卫视,http://39.135.134.67/PLTV/88888888/224/3221225925/1.m3u8
 安徽卫视,http://111.20.35.103:6610/yinhe/2/ch00000090990000001298/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 安徽卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221225691/index.m3u8
@@ -130,9 +128,7 @@ CCTV-17 农业农村,http://39.135.134.67/PLTV/88888888/224/3221225708/1.m3u8
 北京卫视,http://117.169.121.162:6610/PLTV/88888910/224/3221225673/index.m3u8
 北京卫视,http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225600/index.m3u8?fmt=ts2hls
 北京卫视,http://39.134.115.163:8080/TVOD/88888910/224/3221225674/index.m3u8
-北京卫视,https://live.v1.mk/api/ghyx.php?id=BTV1HD_6000
 北京卫视,http://221.2.36.34:8888/newlive/live/hls/19/live.m3u8
-北京卫视,https://live.v1.mk/api/ghyx.php?id=BTV1HD_6000
 北京卫视,http://39.135.134.67/PLTV/88888888/224/3221225678/1.m3u8
 北京卫视,http://39.135.134.67/PLTV/88888888/224/3221225931/1.m3u8
 北京卫视,http://downlive.brtvcloud.com/brtv8kapptv/brtv8kappweishi.m3u8
