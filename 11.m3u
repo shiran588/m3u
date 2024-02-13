@@ -1,17 +1,13 @@
 #EXTM3U
 #EXTINF:-1 group-title="央视频道" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg",CCTV-1
-http://tvpull.dxhmt.cn/tv/11481-4.m3u8
-#EXTINF:-1 group-title="央视频道" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg",CCTV-1
-http://mgsp-ali.live.miguvideo.com:8088/wd_r2/cctv/cctv1hd/1200/01.m3u8?msisdn=202312202000420d78cf1399ab438dbacfb10152264258&mdspid=&spid=699004&netType=4&sid=2201057821&pid=2028597139&timestamp=20231220200042&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=175.146.233.163&SecurityKey=20231220200042&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=WX-A1-6.12.1-RELEASE&userid=&jmhm=&videocodec=h264&mgdbId=&encrypt=4eee0d9508e38b8d4579ba554de06b6d&HlsSubType=1&nphaid=0&HlsProfileId=1&mtv_session=779443e1592aec013428d2f6fb54baed
-#EXTINF:-1 group-title="央视频道" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg",CCTV-1
 https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 #EXTINF:-1 group-title="央视频道" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg",CCTV-1
-http://111.20.35.103:6610/000000001000/1000000001000021973/index.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=00
+http://111.11.98.205:9900/hls/1/index.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg",CCTV-1
+http://61.153.215.190:9901/tsfile/live/0001_1.m3u8
+#EXTINF:-1 group-title="央视频道" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv1.jpg",CCTV-1
+https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.tvyan.com/uploads/dianshi/liaoningtv.jpg",辽宁卫视
-http://222.175.159.226:808/hls/202348/index.m3u8
+http://117.190.144.101:9901/tsfile/live/1041_1.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.tvyan.com/uploads/dianshi/liaoningtv.jpg",辽宁卫视
-http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/liaoningwshd/2000/index.m3u8?msisdn=20231220200025f8d432161daf461bb7ae51a9c7af4297&mdspid=&spid=800033&netType=4&sid=5500321234&pid=2028597139&timestamp=20231220200025&Channel_ID=0116_25000000-99000-100300010010001&ProgramID=630291707&ParentNodeID=-99&assertID=5500321234&client_ip=175.146.233.163&SecurityKey=20231220200025&promotionId=&mvid=5101043014&mcid=500020&playurlVersion=WX-A1-6.12.1-RELEASE&userid=&jmhm=&videocodec=h264&mgdbId=&encrypt=03b4f59ace5b6892fbb66cce1c6ce6ae
-#EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.tvyan.com/uploads/dianshi/liaoningtv.jpg",辽宁卫视
-https://live.goodiptv.club/api/bestv.php?id=lnwshd8m/8000000
-#EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.tvyan.com/uploads/dianshi/liaoningtv.jpg",辽宁卫视
-http://111.225.92.130:8800/hls/36/index.m3u8
+http://111.11.98.205:9900/hls/40/index.m3u8
