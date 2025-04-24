@@ -13,3 +13,5 @@ http://222.134.245.16:9901/tsfile/live/0121_1.m3u8
 http://59.39.89.130:60901/tsfile/live/0125_13.m3u8
 #EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.tvyan.com/uploads/dianshi/liaoningtv.jpg",辽宁卫视
 http://39.165.196.149:9003/hls/42/index.m3u8
+#EXTINF:-1 group-title="卫视频道" tvg-logo="http://www.tvyan.com/uploads/dianshi/liaoningtv.jpg",辽宁卫视
+http://223.241.247.214:85//tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
